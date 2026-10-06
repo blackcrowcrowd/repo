@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Siap dinilai"
-self_score: "17"
+self_score: "16"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -85,7 +85,7 @@ Yang berubah: sapaan ("gw" menjadi "kak"), panjang pesan, dan ada tidaknya opsi 
 | Person & character | Saya berperan sebagai responden bagi senior, anggota tim yang terlambat, anak kepada ibu, teman bermain, dan pemberi semangat bagi diri sendiri sebelum berbicara. Tiap peran memakai sapaan dan tingkat formalitas yang berbeda. |
 | Objective & state | Pada episode senior: membantu sambil menjaga komitmen lain; state senior membutuhkan jawaban tertulis tanpa Zoom, state saya sedang sibuk (16.30). Tidak ada tenggat yang ditetapkan senior. |
 | Repertoire & language | Persetujuan cepat, kendala disebut dengan sapaan hormat, laporan penyelesaian. Pada episode tim, saya menyertakan opsi menolak ("gpp juga kalo kaga"). Pada Intra-Self: kalimat penyemangat singkat sebelum tampil. |
-| Response & adaptation | Senior menerima penundaan dan menetapkan ekspektasi terbuka ("Kabarin aja kalo udh"); saya menyesuaikan dengan melapor setelah selesai. Pada episode tim, tidak ada respons untuk dibaca, dan saya hanya menunggu tanpa mengubah pendekatan. |
+| Response & adaptation | Pada episode senior, saya membaca responsnya ("Aman ajah", "Kabarin aja kalo udh") dan menyesuaikan dengan melapor setelah selesai. Pada episode tim, tidak ada respons; saat itu saya hanya menunggu tanpa membaca diam sebagai signal. Dalam refleksi, saya memetakan tiga kemungkinan state tim (sibuk, belum membaca, tidak berminat) dan merumuskan rencana: pertanyaan tertutup dengan batas waktu, lalu kontak langsung ke satu anggota. Karena Hackathon sudah berakhir, adaptasi ini belum teruji. |
 | Agreement/action | Kesepakatan: saya mengisi tab saya dan melapor saat selesai; tidak ada tenggat eksplisit. Tindakan: laporan "done" pukul 20.22, sekitar empat jam setelah konfirmasi 16.30. |
 | Relationship outcome | Senior berterima kasih (20.27); hubungan terjaga. Pada episode tim, hasilnya belum jelas karena tidak ada respons. |
 
@@ -103,7 +103,7 @@ Menggunakan AI.
 
 **Feedback yang diterima:** Setelah pitch hands-on pada Day 3, juri (pemateri tapi jadi juri juga) menyampaikan, sebagaimana saya ingat, bahwa saya tampak percaya diri. Ini berkaitan dengan karakter Intra-Self saya. Pada episode senior, ia membalas "thank youu"; itu menandakan hasilnya diterima, bukan penilaian atas cara saya berkomunikasi.
 
-**Adaptation/replay:** Setelah tidak ada respons dari tim, saya menunggu sampai jum'at 2 oktober pukul 11.00 tanpa pesan lanjutan atau perubahan pendekatan. Karena mepet, saya akhirnya mengerjakan day 1 dan 2 sendiri.
+**Adaptation/replay:** Setelah mengirim pesan @all dan tidak ada balasan, saya hanya menunggu sampai Sabtu pukul 11.00 tanpa pesan lanjutan. Pada saat itu saya tidak membaca ketiadaan respons sebagai signal. Dalam refleksi setelahnya, saya menyusun tiga hipotesis tentang state tim: (1) sibuk dengan pekerjaan Hackathon, sehingga pesan terbaca tetapi tidak mendesak; (2) belum membaca pesan, yang konsisten dengan tanda centang abu-abu ganda pada pesan saya, tetapi itu tidak membuktikan pesan belum dibaca; (3) tidak berminat, sehingga diam menjadi jawaban. Pesan saya memang terbuka dan memberi opsi menolak ("gpp juga kalo kaga"), sehingga diam tidak bisa dibedakan dari penolakan. Karena Hackathon berakhir pada Day 3, tindak lanjut tidak lagi berguna dan saya tidak mengirimnya. Rencana untuk situasi serupa: kirim pertanyaan tertutup dengan batas waktu (mis. "Ada yang mau join hari ini? Balas ya/tidak sebelum jam 3 sore"), lalu bila masih tidak ada balasan, hubungi satu anggota secara langsung sebelum tenggat habis.
 
 **Next practice:** Lain kali, saya akan menyebut estimasi selesai dan memakai pertanyaan tertutup yang mudah dijawab. 
 
@@ -114,10 +114,10 @@ Menggunakan AI.
 | Person & Character | 4 | Lima character dari lima domain dipetakan dengan person dan relationship |
 | Objective & State | 3 | Objective dan state awal jelas pada episode senior; state tim belum terbaca |
 | Repertoire, Language & AI | 3 | Perubahan bahasa sesuai person; penggunaan AI dinyatakan |
-| Response & Adaptation | 3 | Respons senior terbaca, tetapi adaptasi terbatas dan tim tidak merespons |
-| Agreement, Action & Relationship | 4 | Tindakan dan hasil jelas serta hubungan terjaga|
+| Response & Adaptation | 3 | Respons senior terbaca dan ditindaklanjuti; pada episode tim, diam tidak dibaca sebagai signal saat itu, dan adaptasi baru berupa refleksi dan rencana |
+| Agreement, Action & Relationship | 3 | Tindakan dan hasil jelas serta hubungan terjaga|
 
-**Total:** 17 / 20
+**Total:** 16 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
