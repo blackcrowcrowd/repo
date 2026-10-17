@@ -1,0 +1,90 @@
+---
+title: "Portfolio Minggu 8 — UTS KIPP"
+week: 8
+status: "Siap dinilai"
+self_score: "—"
+assessor_score: "—"
+description: "Makalah pra-UTS dan lima laporan kasus individual."
+categories: [Assessment, UTS]
+---
+
+::: {.callout-note title="Tentang halaman ini"}
+Halaman ini adalah indeks makalah pra-UTS dan lima laporan sesi, serta refleksi lintas sesi. Transkrip lengkap tiap sesi berada di masing-masing laporan. Semua skor sesi pada halaman ini adalah **usulan AI** yang memerlukan moderasi dosen.
+:::
+
+## Identitas dan status paket
+
+| Elemen | Isi mahasiswa |
+|---|---|
+| Nama | Muhammad Faisal Ramadhan |
+| NIM | `18225085` |
+| Kelas | K01 |
+| Periode/tanggal pelaksanaan | Sesi 1: 14–15 Okt 2026 · Sesi 2a: 16–17 Okt 2026 · Sesi 2b, 3a, 3b: 17 Okt 2026 · Makalah: 17–18 Okt 2026 |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0 (tanpa password) |
+| Modalitas | Teks, melalui chatbox AI Claude (bukan ChatGPT); tidak ada transkripsi suara |
+| Status pengumpulan | Diunggah ke `portfolio/UTS` pada 18 Okt 2026; `/submit w08` [isi setelah dikirim] |
+
+## Makalah dan lima laporan
+
+Nama berkas laporan mengikuti `PENUGASAN.md` dalam ZIP masing-masing (`hasil_<sesi>_18225085.qmd`).
+
+| Tahap | Berkas | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Siap dinilai | Empat pertanyaan dijawab dengan contoh dari sesi UTS (contoh validasi Q2 → X2 dari Sesi 2a); tiga referensi |
+| 1 | [hasil_1_18225085.qmd](UTS/hasil_1_18225085.qmd) | Diri; pembanding Fajar (K1-06) | Siap dinilai | Transkrip lengkap U001–U028; kasus nyata (menulis fiksi); uji ulang hipotetis |
+| 2a | [hasil_2a_18225085.qmd](UTS/hasil_2a_18225085.qmd) | Fajar (K2-06) | Siap dinilai | Transkrip lengkap U001–U018; sesi terjeda semalam setelah U008 |
+| 2b | [hasil_2b_18225085.qmd](UTS/hasil_2b_18225085.qmd) | Budi (K2-02) | Siap dinilai | Transkrip lengkap U001–U019; tabel perbandingan adaptasi 2a vs 2b |
+| 3a | [hasil_3a_18225085.qmd](UTS/hasil_3a_18225085.qmd) | Fajar (K3-06) | Siap dinilai | Transkrip lengkap U001–U019; demo video dinyatakan sebagai aksi simulasi |
+| 3b | [hasil_3b_18225085.qmd](UTS/hasil_3b_18225085.qmd) | Cyntia (K3-03) | Siap dinilai | Transkrip lengkap U001–U022; tabel perbandingan adaptasi 3a vs 3b |
+
+{{< include "../includes/uts-penilaian.md" >}}
+
+## Rekap nilai komponen
+
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---|---|---|---|
+| Makalah | 10% | [Isi] | — (tidak dinilai AI) | — | Belum dinilai |
+| Sesi 1 | 18% | [Isi] | 79,2 (19/24) | — | Belum dinilai |
+| Sesi 2a | 18% | [Isi] | 95,8 (23/24) | — | Belum dinilai |
+| Sesi 2b | 18% | [Isi] | 91,7 (22/24) | — | Belum dinilai |
+| Sesi 3a | 18% | [Isi] | 83,3 (20/24) | — | Belum dinilai |
+| Sesi 3b | 18% | [Isi] | 87,5 (21/24) | — | Belum dinilai |
+
+Ringkasan kasus (rata-rata usulan AI, hanya ringkasan): Kasus 2 ≈ 93,8; Kasus 3 ≈ 85,4.
+
+**Nilai akhir UTS resmi:** Belum dihitung. Nilai makalah dan moderasi dosen untuk kelima sesi belum tersedia.
+
+## Refleksi lintas sesi
+
+*Bagian ini disusun dari jawaban refleksi mahasiswa di tiap laporan; kutipan disalin dari transkrip.*
+
+### Pelajaran per sesi
+
+| Sesi | Lesson learned mahasiswa | Sumber |
+|---|---|---|
+| 1 | "Don't assume things without basis… Disini sepele, di konteks berat masalah besar." | hasil_1, U027 |
+| 2a | Lebih komunikatif: kabari kendala lebih dulu, jangan menunggu ditegur ("aku bilang pasti baca tapi 3 jam lewat belum aku baca"). | hasil_2a, U017 |
+| 2b | Langsung meminta maaf saat ada kesalahan ("Nggak apa-apa, yang penting sudah diluruskan"). | hasil_2b, U018 |
+| 3a | Pahami kapabilitas lawan bicara sebelum menawarkan solusi. | hasil_3a, U018 |
+| 3b | Kendalikan diskusi agar lingkupnya tidak melebar. | hasil_3b, U021 |
+
+### Perkembangan metode
+
+- **Board A/Q/X/C.** Mulai Sesi 2a, setiap dugaan dicatat sebagai Q, diperiksa lewat pertanyaan, lalu ditandai A (terkonfirmasi) atau X (terbukti salah), dengan keputusan tindakan sebagai C. Contoh: dugaan Q2 di Sesi 2a ("tugasnya melebihi kemampuannya") terbantah oleh "Bukan nggak bisa. Gw bisa kok", lalu menjadi X2 dan pendekatan diubah (C1).
+- **Discovery sebelum solusi.** Sesi 2b memakai 2–3 giliran discovery sebelum menawarkan pembagian; Sesi 3b menanyakan modal, waktu, dan skill sebelum menawarkan solusi, menerapkan pelajaran Sesi 3a.
+- **Kesepakatan yang lengkap.** Dari "nanti gw coba" di Sesi 1 menuju kesepakatan dengan pembagian, tenggat, penanggung jawab, dan ukuran keberhasilan di sesi-sesi berikutnya.
+
+### Adaptasi lintas sasaran
+
+| Pasangan | Perbedaan pendekatan | Bukti |
+|---|---|---|
+| 2a (Fajar) vs 2b (Budi) | Langsung dan santai untuk Fajar; discovery, perhitungan beban, register lebih formal, dan kesepakatan tertulis untuk Budi | hasil_2b, tabel perbandingan 2a/2b |
+| 3a (Fajar) vs 3b (Cyntia) | Formal dan cepat ke solusi untuk Fajar; ramah, membantu memilih prioritas, dan mengendalikan lingkup untuk Cyntia | hasil_3b, tabel perbandingan 3a/3b |
+
+### Yang masih perlu ditingkatkan (dari evaluasi laporan)
+
+- Menamai hambatan A, K, dan S sesuai kutipan, terutama isyarat yang diucapkan berulang (2b, 3a, 3b).
+- Memberi label pada klaim (biaya, waktu, pengalaman) dan mengecek ulang angka serta tanggal sebelum mengirim usulan (2b, 3a, 3b).
+- Mengakui kekeliruan sendiri di refleksi, bukan hanya mempertahankan dugaan (3a, 3b).
+
+[Opsional: tambahkan refleksi pribadi tentang UTS secara keseluruhan.]

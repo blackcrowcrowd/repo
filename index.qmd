@@ -1,39 +1,27 @@
 ---
-title: "Portfolio Pembelajaran"
-page-layout: full
+title: "Indeks Portfolio"
+sidebar: portfolio
 toc: false
+listing:
+  contents: "week-*.qmd"
+  type: table
+  sort: "week asc"
+  fields: [week, title, status, self_score, assessor_score]
+  field-display-names:
+    week: "Minggu"
+    title: "Evidence"
+    status: "Status"
+    self_score: "Self"
+    assessor_score: "Assessor"
+  page-size: 20
 ---
 
-::: {.portfolio-header}
-<div class="student-name">{{< var student.name >}}</div>
-<div class="student-meta">{{< var student.id >}} · {{< var student.program >}} · {{< var student.cohort >}}</div>
+Perbarui metadata di bagian atas setiap file `week-XX.qmd`. Nilai `status` yang disarankan: `Belum dimulai`, `Draft`, `Siap dinilai`, `Perlu revisi`, atau `Tercapai`.
+
+::: {.callout-tip title="Butuh contoh?"}
+Lihat [contoh portfolio lengkap untuk Minggu 1–15](../examples/index.qmd). Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.
 :::
 
-Portfolio ini merekam perkembangan kompetensi pada mata kuliah **{{< var course.name >}}**. Setiap klaim pencapaian harus terhubung pada evidence, feedback, refleksi, dan tindakan perbaikan.
+## UTS
 
-::: {.status-strip}
-<div><strong>15 minggu</strong>jalur pembelajaran</div>
-<div><strong>5 domain</strong>relasi personal hingga publik</div>
-<div><strong>1 portfolio</strong>bukti perkembangan yang dapat ditinjau</div>
-:::
-
-## Mulai dari sini
-
-1. Buka [Perkuliahan](course/index.qmd) untuk membaca pengantar, membuka slide, dan mengerjakan quiz.
-2. Isi halaman evidence pada [Portfolio](portfolio/index.qmd) setelah latihan atau performance.
-3. Gunakan [Rubrik](assessment/rubric.qmd) untuk self-assessment sebelum meminta penilaian.
-4. Perbarui status dan skor pada metadata halaman portfolio agar ringkasan otomatis ikut berubah.
-
-## Pencapaian semester
-
-| Tahap | Minggu | Fokus pencapaian |
-|---|---:|---|
-| Fondasi personal | 1–4 | person, narrative, relationship, language |
-| Value dan TAIDA | 5–10 | discovery, attention, interest, desire, action |
-| Relasi berskala | 11–14 | negotiation, community, public, AI mediation |
-| Integrasi | 15 | capstone person-centered communication |
-
-## Evidence terbaru
-
-Gunakan [indeks portfolio](portfolio/index.qmd) untuk melihat status seluruh minggu. Halaman tersebut membaca field `status`, `self_score`, dan `assessor_score` dari setiap file evidence.
-
+[Buka portfolio Minggu 8](week-08.qmd) untuk makalah pra-UTS dan lima laporan sesi 1, 2a, 2b, 3a, 3b.

@@ -1,0 +1,892 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+author: "Muhammad Faisal Ramadhan — 18225085"
+status: "Siap dinilai"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Muhammad Faisal Ramadhan |
+| NIM | 18225085 |
+| Kelas dan tanggal | K01; 14 Oktober 2026 (sesi berlangsung 14 Okt 21.30 – 15 Okt 00.01 WIB) |
+| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin diri dan terus belajar |
+| Nama dan ID target | Diri mahasiswa; pembanding Fajar (K1-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md (cermin kasus 1, digit terakhir NIM modulo 6 + 1) |
+| Modalitas | Teks, melalui chatbox AI Claude (bukan ChatGPT); tidak ada transkripsi suara |
+| Kasus nyata/fiktif | Nyata (kemampuan menulis fiksi). Situasi uji ulang dan sebagian adegan simulasi bersifat hipotetis dan diberi label. |
+| Kelengkapan transkrip | Lengkap dari U001 sampai U028. Pertanyaan klarifikasi di luar roleplay ikut disalin dan ditandai. U011 terkirim dalam dua pesan karena tertekan Enter tidak sengaja; keduanya disalin. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief:** "Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar."
+
+**Kemampuan yang dipilih:** menulis fiksi (penulis cerita), kasus nyata (U004).
+
+**Tujuan tindakan:** memposting minimal 1 bab (sekitar 1.000 kata) di situs menulis paling lambat 31 Oktober 2026 (U004, U006).
+
+**Indikator keberhasilan:** bab sudah terposting. Indikator antara: waktu menulis minimal 10 menit per hari tercatat di aplikasi YPT mulai 15 Oktober; draf bab dimulai 25 Oktober (U006).
+
+**Alasan kelayakan menurut mahasiswa:** penulis yang diikuti rata-rata mengunggah satu bab per bulan, dan mahasiswa masih penulis baru (U004).
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: menulis memberi kebahagiaan "gradual dan permanen", meninggalkan jejak. Ancaman: kesenangan instan (webnovel) yang menarik perhatian. Mampu: menulis cepat, ratusan kata dalam menit. Belum mampu: menjaga keinginan menulis saat terdistraksi. | U005 | Sementara (laporan diri) |
+| Attitude | Hambatan utama menurut mahasiswa: "aku mulai lupa dengan keinginan ku buat nulis"; lebih memilih kesenangan instan. | U005 | Dugaan utama |
+| Knowledge | Bukan hambatan utama: sudah tahu bahwa membaca webnovel "dopamin tinggi" kurang baik, tapi tetap melakukannya. | U005 | Dugaan |
+| Skill | Bukan hambatan: file tulisan yang sudah ada dan kecepatan mengetik sebagai bukti. | U005 | Dugaan |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan. Teramati: menyukai framing identitas dan cerita perjuangan pribadi (U011); musik DJ sebagai pemulih energi (U024). | U011, U024 | Laporan diri/hipotesis, bukan diagnosis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa yang identitasnya terikat pada riwayat kerja keras (olimpiade, ELECTRA, SNBT); pengguna YPT sekitar 6 minggu; penulis baru di komunitas situs menulis. | U011, U012 | Laporan diri |
+
+## Dugaan awal profil target dan rencana
+
+Untuk Kasus 1, target utama adalah diri mahasiswa; Fajar hanya tokoh pembanding.
+
+- **Fakta (U005):** 2–3 hari sebelum sesi, mahasiswa tidak brainstorming dan tidak latihan menulis dialog sama sekali; ia "lupa" dan sedang menikmati membaca webnovel.
+- **Dugaan (U005):** hambatan utama A (kemauan/sikap); K dan S bukan hambatan.
+- **Pertanyaan validasi yang muncul selama sesi (AI009):** bagaimana menjelaskan keyakinan "pasti menulis 10 menit" dengan fakta tidak menulis 2–3 hari lalu.
+
+Rencana TAIDA tidak dirumuskan eksplisit oleh mahasiswa di awal; tabel berikut disusun dari jawaban U004–U008 dan dari pemetaan TAIDA yang mahasiswa tulis sendiri pada U020.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Diri sendiri; tujuan 1 bab terposting 31 Okt | Diagnosis: A | Rencana 10 menit/hari dengan YPT (U006) | Waktu tercatat di YPT |
+| Attention | Perhatian tersedot ke webnovel | A | Judul sticky note yang interogatif sebagai "hook" (U008) | Tetap membaca pesan, tidak langsung kembali ke webnovel |
+| Interest | Keinginan menulis terlupa | A | Membangkitkan memori kebahagiaan menulis (U008) | Rasa rindu menulis |
+| Desire | Belum memilih menulis | A | Ajakan "just 10 minutes… you can go back" (U008) | Bersedia mencoba |
+| Action | Belum ada komitmen | A/S | 10 menit menulis tercatat di YPT | Menulis dimulai |
+
+# C) Skrip Percakapan
+
+**Transkrip aktual, bukan dialog karangan.** Kutipan disalin tanpa perbaikan ejaan. Label tahap: Identifikasi, Kasus dan Tujuan, Simulasi awal, Segmen pembanding, Evaluasi sementara, Uji ulang, Refleksi, Konfirmasi. Pesan di luar roleplay ditandai "Klarifikasi".
+
+#### U001 — Identifikasi
+
+start Session 1
+
+#### AI001 — Identifikasi
+
+**[Sesi 1 · Kasus 1 — Tahap A: Identifikasi]**
+
+Halo, selamat datang di Sesi 1 UTS KIPP 2026 (paket versi 2.0). Mulai dari sini, semua giliran dicatat sebagai transkrip untuk laporan `hasil_1`.
+
+Paket ini tercatat atas nama **Muhammad Faisal Ramadhan**, NIM **18225085**, sesi 1 dari 5. Data ini baru penugasan dari paket, belum verifikasi identitas.
+
+Tolong konfirmasi dan lengkapi data berikut dalam satu balasan:
+
+- Nama dan NIM (tulis ulang sebagai teks)
+- Kelas
+- Tanggal hari ini
+- Modalitas: teks atau suara (kalau suara, sebutkan sumber transkripsinya)
+
+#### U002 — Identifikasi
+
+Muhammad Faisal Ramadhan | 18225085 (Betul)
+Kelas: K01
+Tanggal: 14 October [Diluar roleplay: It's true, right?]
+Modalitas: Teks
+
+#### AI002 — Identifikasi; Kasus dan Tujuan
+
+*(Di luar roleplay: ya, hari ini Rabu, 14 Oktober 2026.)*
+
+**[Tahap A: Identifikasi — konfirmasi]**
+
+| Elemen | Data |
+|---|---|
+| Nama | Muhammad Faisal Ramadhan |
+| NIM | 18225085 |
+| Kelas | K01 |
+| Tanggal | 14 Oktober 2026 |
+| Modalitas | Teks |
+| Sesi | 1 — Kasus 1 |
+
+Data dicatat sesuai konfirmasimu.
+
+**[Tahap B: Kasus dan Tujuan]**
+
+**Brief kasus:** "Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar."
+
+Kasusnya boleh nyata atau fiktif, tapi tolong ditandai. Kamu juga tidak wajib membuka hal yang sensitif.
+
+Pertanyaan pertama: **kemampuan apa yang kamu pilih, dan kasusnya nyata atau fiktif?** Kalau sudah ada, sebutkan juga tujuan konkretnya: apa yang ingin kamu capai, kapan, dan bagaimana kamu tahu tujuan itu tercapai.
+
+#### U003 — Klarifikasi
+
+[Clarification request, is my duration in answering also recorded as a way to judge competency? Or do I have lots of time to consider my answer? This haven't been mentioned at all.]
+
+#### AI003 — Klarifikasi
+
+*(Di luar roleplay)*
+
+No, your response time isn't graded. The six dimensions only cover what you write: your goal, diagnosis, tactics, execution, adaptation and reflection. The report records the date, not timestamps for each message, and nothing in the rubric rewards speed.
+
+So take the time you need to think. The only real limit is your own schedule tonight, about 1.5 hours for this session.
+
+One note: the report must copy every turn from identification to confirmation, so out-of-roleplay questions like this one will appear in the transcript, marked as clarifications. That's fine. They don't count against you.
+
+Whenever you're ready, answer the question above: **which skill, real or fictional, and your concrete goal.**
+
+#### U004 — Kasus dan Tujuan
+
+This is what I wanted: Literature authoring / being a writer of a fictional book or story, and this is a real skill. My concrete goal is to post at least one chapter by the end of october, which i consider fair, considering that some of the authors i follow do upload only one chapter per month PLUS i'm just a new writer. Jadi itu: TLDR skill in writing fiction, concrete goal: 1 CH posted in a writing site by 31 October.
+
+#### AI004 — Kasus dan Tujuan
+
+**[Tahap B: Kasus dan Tujuan — lanjutan]**
+
+Dicatat:
+
+- **Kemampuan:** menulis fiksi (kasus nyata)
+- **Tujuan:** memposting minimal 1 bab di situs menulis paling lambat 31 Oktober 2026
+- **Indikator:** bab tersebut sudah terposting
+- **Alasan targetnya realistis:** penulis yang kamu ikuti pun rata-rata posting satu bab per bulan, dan kamu masih penulis baru
+
+Sekarang kita lihat kondisi awalmu sebelum masuk dialog.
+
+**Ceritakan satu momen terakhir ketika kamu berhenti atau menunda menulis. Apa yang terjadi (faktanya saja), dan menurut dugaanmu sekarang, apa yang paling menghambat: kemauan/sikap (A), pemahaman (K), atau kemampuan/dukungan (S)?**
+
+Ini masih dugaan sementara. Boleh campuran, dan boleh berubah nanti.
+
+#### U005 — Kasus dan Tujuan
+
+Beberapa hari yang lalu, sekitar 2-3 hari yang lalu, aku mulai lupa dengan keinginan ku buat nulis. I just... kinda woke up and forgot about it for the day. I didn't brainstorm ideas for my story, I didn't practice writing conversations, none. Thinking back again, I assumed that the biggest obstacle is (A: kemauan/sikap). Why is this my assumption? Because back then, I was really enjoying other things. Things that give much more temporary joy than writing a story, which makes sense.
+
+Subconsciously, if we have two options: 1) lots of effort, happiness will be gradual and permanent because you create something, you leave a mark on this world, you express yourself and there's proof of it, which is what usually happens to writing stories as far as my experience in the writing site forums say. 2) near zero effort, instant happiness because a lot of webnovels are simply designed that way, giving a high-enjoyment moment for every chapter; then our mind would choose 2 when it doesn't control itself well. If I were to control myself well, since I'm seeing my future, knowing about my future happiness, I feel that I will choose 1).
+
+I assume that K isn't the maximum reason because I know. I know  that reading webnovels that are designed to give high dopamine all the time, similar to scrolling, isn't the best for our brain. Yet I did it over writing my own story anyways.
+
+I assume that S isn't the reason because I am definitely capable of simply continuing to write. The already existing files in my computer is proof enough that I am capable of churning out hundreds of words in mere minutes, especially with how fast I type.
+
+#### AI005 — Kasus dan Tujuan
+
+*(Di luar roleplay: sekarang 22:06, sekitar 30 menit di belakang jadwal. Jawabanmu bagus dan detail, dan itu bukan masalah. Kalau mau mengejar waktu, jawaban berikutnya boleh lebih pendek.)*
+
+**[Tahap B: Kasus dan Tujuan — profil awal]**
+
+Dicatat sebagai **dugaan awal (laporan diri)**:
+
+| Unsur | Dugaanmu | Catatan |
+|---|---|---|
+| Fakta | 2–3 hari lalu kamu tidak brainstorming dan tidak latihan menulis dialog sama sekali. Kamu menyebut "lupa" dan sedang menikmati hal lain (membaca webnovel). | Peristiwa |
+| A (sikap/kemauan) | **Hambatan utama.** Kesenangan instan menang atas kepuasan jangka panjang dari menulis. | Dugaan utama |
+| K (pemahaman) | Bukan hambatan utama. Kamu sudah tahu konsumsi "dopamin tinggi" kurang baik, tapi tetap melakukannya. | Dugaan |
+| S (kemampuan) | Bukan hambatan. Buktinya file tulisan yang sudah ada dan kecepatan mengetikmu. | Dugaan |
+
+Ini dicatat apa adanya, dan nanti akan dibandingkan dengan hasil sesi.
+
+Satu hal lagi sebelum simulasi: **apa rencana awalmu untuk memimpin dirimu menuju 1 bab terposting pada 31 Oktober?** Sebutkan langkah pertamanya dan kapan akan dilakukan. Garis besar saja sudah cukup.
+
+#### U006 — Kasus dan Tujuan
+
+Secara garis besar, aku akan menggunakan aplikasi YPT, aplikasi yang aku biasa gunakan untuk belajar untuk mengcount waktu aku spend time brainstorming and practicing scenes. Starting from tomorrow, at least ~10 minutes in front of a blank canvas (or continuing from the previous writings). Afterwards, on 25th I will begin writing a draft, eventually writing a chapter. Since I'm just starting out, the chapter should have around 1000 words only.
+
+#### AI006 — Kasus dan Tujuan; Simulasi awal
+
+**[Tahap B: Kasus dan Tujuan — rencana awal]**
+
+Rencana awal dicatat:
+
+| Langkah | Waktu | Indikator |
+|---|---|---|
+| Brainstorming dan latihan adegan minimal ~10 menit per hari, dicatat dengan aplikasi YPT | Mulai 15 Oktober | Waktu tercatat di YPT |
+| Mulai menulis draf bab | 25 Oktober | Draf dimulai |
+| Posting 1 bab (sekitar 1.000 kata) | Paling lambat 31 Oktober | Bab terposting |
+
+**[Tahap C: Simulasi awal — dialog diri]**
+
+Sekarang bagian inti. Kamu adalah komunikator, dan sasarannya adalah dirimu sendiri.
+
+Bayangkan momen seperti 2–3 hari lalu: kamu bangun, dan yang menarik perhatianmu adalah webnovel, bukan ceritamu sendiri.
+
+**Tuliskan pesan yang benar-benar kamu sampaikan kepada dirimu pada momen itu**, seolah kamu sedang bicara langsung ke dirimu sendiri. Gaya bahasanya bebas, lu-gw atau campur Inggris juga boleh.
+
+#### U007 — Klarifikasi
+
+Clarification question: Di skenario ini, apakah perlu untuk mengkonsiderasi absurdity of getting a message from my future self (should I convince my past self that it's me), or should I simply create a message that my past me would definitely believe come from the current me + they wouldn't care? After all, if I were suddenly given a message from a future me, I'd assume that I would be shocked and not believe it due to how unbelievable it is.
+
+#### AI007 — Klarifikasi
+
+**[Klarifikasi]**
+
+Tidak perlu memikirkan soal pesan dari masa depan. Skenarionya bukan pesan dari dirimu yang sekarang ke dirimu di masa lalu.
+
+Yang dimaksud adalah **self-talk**: apa yang kamu katakan ke dirimu sendiri **di momen itu juga**, seperti suara dalam kepala ketika kamu sadar sedang memilih webnovel daripada menulis. Pengirim dan penerimanya sama-sama kamu, di waktu yang sama, jadi tidak ada soal percaya atau tidak percaya.
+
+Kalau lebih natural, boleh juga dalam bentuk catatan yang kamu tulis untuk dirimu, misalnya notifikasi HP atau sticky note di meja.
+
+Jadi: **tuliskan self-talk yang kamu sampaikan ke dirimu pada momen itu.**
+
+#### U008 — Simulasi awal (pesan diri versi 1)
+
+I see, thanks for the confirmation. My self-talk for that would definitely be a sticky note posted on my wall. I have these styrofoams taped to my wall, so I can simply pin a paper on there. The paper would read:
+
+Mau senang instan tapi temporary, atau mau bahagia sampe selamanya? (ini slogan di atasnya doang, singkat dan interogatif biar kalaupun lagi males baca, masih bisa kena 'hook' dan lanjut baca, tidak langsung memulai dengan paragraf panjang.)
+
+Faisal, remember that time when you first felt the urge to write. Remember the joy you felt reading what you wrote yourself. The happiness, the pride in creating something that may bring happiness to yourself and others. In expressing yourself in a way that leaves a mark on this world. (Ini aku nulis ginian, bawa-bawa perasaan itu agar diriku di masa itu terbawa ke memory kebahagiaan saat menulis. I'd assume that this will make the past me yearn for that pure joy once more.)
+
+So... write for me, would you? For us, for me, for you and for our future self. Just 10 minutes. 10 minutes and if you don't find that joy, you can go back :) (Here, I give the actionable small steps. 10 minutes of writing per day, that would be of immense help to me.)
+
+#### AI008 — Simulasi awal
+
+**[Tahap C: Simulasi awal — respons diri]**
+
+Pesan dicatat utuh, termasuk catatan alasanmu (hook interogatif → membangkitkan memori kebahagiaan menulis → ajakan kecil 10 menit dengan "jalan keluar").
+
+Sekarang bagian yang penting: bedakan **respons yang benar-benar terasa** dari rencana yang ideal.
+
+**Bayangkan kamu sedang di momen itu, ingin baca webnovel, lalu matamu melihat kertas itu di dinding. Jujur saja: apa yang benar-benar kamu rasakan dan pikirkan ketika membacanya? Apakah kamu akan duduk menulis, atau tetap membuka webnovel?**
+
+#### U009 — Simulasi awal
+
+To be honest, I'd probably read the title only then go back to reading webnovel. After all, in that response, I've already been planning webnovel. And... it's literally just a text.
+
+BUUUUTT that would be the case IF it was me a few months ago. In this scenario, the time 3 days ago, that would not be the case even if I already planned to write at least 10 minutes a day.
+
+Statistically, I've studied, with the app, my weekly statistics of studying are as follows:
+Oct 12 - Oct 18: avg 2h11m
+Oct 5 - Oct 11: avg 2h53m
+Sep 28 - Oct 4: avg 3h36m
+Sep 21 - Sep 27: avg 1h35m
+Judging by these statistics, my current self is highly able to do something as simple as sit for 10 minutes. I assume that I will, as long as I haven't done 10 minutes of writing on that day, write for at least 10 minutes.
+
+By the way, 10 minutes is a number I come up simply because of how short it is. I sometimes read for hours, so simply doing 10 minutes would be like a 'small price', a proposal to my subconcious to do the  right thing. And it will accept that proposal.
+
+Just like it did with all the time I tried studying. Let's just start studying a bit = proposal to subconcious. But when I already start studying? Well, sometimes I would simply feel that studying is kinda fun and continue actually studying. I'd assume that this would work with the writing as well, since writing fiction stories is probably more fun than doing practice questions that made your brain heat up.
+
+#### AI009 — Simulasi awal (memeriksa keyakinan)
+
+**[Tahap C: Simulasi awal — memeriksa keyakinan]**
+
+Dicatat:
+
+- **Respons jujur awal:** kemungkinan besar kamu hanya membaca judulnya, lalu kembali ke webnovel, karena rencanamu sudah membaca webnovel dan "it's literally just a text".
+- **Klaim berikutnya:** dirimu yang sekarang akan tetap menulis minimal 10 menit, karena konsistensi belajarmu di YPT (rata-rata 1j35m–3j36m per hari dalam 4 minggu terakhir).
+- **Logika "10 menit":** harga kecil sebagai "proposal ke alam bawah sadar". Setelah mulai, biasanya kamu lanjut, seperti yang terjadi saat belajar.
+
+Ada dua hal yang perlu dicek sebelum lanjut, berdasarkan ucapanmu sendiri:
+
+1. Kamu bilang di skenario 3 hari lalu kamu *akan* menulis. Tapi faktanya, 2–3 hari lalu kamu **tidak** menulis sama sekali, dan statistik belajarmu sudah sebagus itu waktu itu.
+2. Data YPT-mu adalah data **belajar**, bukan data **menulis**.
+
+**Bagaimana kamu menjelaskan perbedaan antara keyakinan "aku pasti akan menulis 10 menit" dengan fakta bahwa 2–3 hari lalu kamu tidak menulis?** Apa yang berbeda antara belajar (yang konsisten) dan menulis (yang terlupa)?
+
+#### U010 — Simulasi awal
+
+Karena 2-3 hari lalu belum ada plan. Belum ada komitmen 10 menit. Ini adalah blind spot dari argumen saya yang tadi. Saya lupa bahwa argumen yang perlu saya buat adalah tentang 2-3 hari lalu, which, aku belum memikirkan komitmen tersebut. Should I revise the message to myself? This one will include the commitment, or should I try to explain how I could definitely write 10 minutes with the already existing commitment even though 2-3 days ago I didn't write? By the way, from yesterday to today, I've already started being active without actually making some kind of commitment. Just a spark of idea, and now i'm writing a lot, so this kinda shows that when I do remember that I actually want to write, I will write. I assume that i was simply blinded by the short term enjoyment, and is now seeking for soemthing more 'real'?
+
+Additional data, from that hours in 'studying', i checked again on the app and i realized ive also been counting my time authoring, so 10 minutes per day isnt even that far off.
+Here's the data:  (Week follows the from before)
+Week 12 Oct: 1h12m avg ~10 min/day
+Week before: 4h12m avg 30+min/day
+Week before2:3h25m avg 25+ min/day
+
+#### AI010 — Simulasi awal (revisi)
+
+**[Tahap C: Simulasi awal — revisi]**
+
+Dicatat:
+
+- **Blind spot yang kamu temukan sendiri:** 2–3 hari lalu belum ada rencana dan belum ada komitmen 10 menit, jadi argumen "pasti menulis" belum berlaku untuk momen itu.
+- **Fakta baru:** kemarin sampai hari ini kamu aktif menulis tanpa komitmen formal, dipicu "percikan ide". Kesimpulanmu: *"ketika aku ingat bahwa aku ingin menulis, aku akan menulis."*
+- **Dugaanmu:** sebelumnya kamu "terbutakan" kesenangan jangka pendek, dan sekarang mencari sesuatu yang lebih "nyata".
+- **Data YPT untuk menulis (authoring):** minggu 28 Sep sekitar 3j25m (25+ menit/hari), minggu 5 Okt sekitar 4j12m (30+ menit/hari), minggu 12 Okt sejauh ini 1j12m.
+    - *Catatan fakta:* minggu 12 Okt baru berjalan 3 hari (12–14 Okt), jadi rata-rata hariannya belum final.
+
+Untuk pertanyaanmu: tahap ini memang meminta kamu **memperbaiki pesan untuk dirimu**. Isinya sepenuhnya keputusanmu, berdasarkan temuan barusan.
+
+**Tulis versi revisi sticky note-mu, lalu jelaskan singkat apa yang kamu ubah dan kenapa.**
+
+#### U011 — Simulasi awal (pesan diri versi 2; dikirim dalam dua pesan)
+
+*Pesan pertama:*
+
+PREVIOUS
+Mau senang instan tapi temporary, atau mau bahagia sampe selamanya? (ini slogan di atasnya doang, singkat dan interogatif biar kalaupun lagi males baca, masih bisa kena 'hook' dan lanjut baca, tidak langsung memulai dengan paragraf panjang.)
+Faisal, remember that time when you first felt the urge to write. Remember the joy you felt reading what you wrote yourself. The happiness, the pride in creating something that may bring happiness to yourself and others. In expressing yourself in a way that leaves a mark on this world. (Ini aku nulis ginian, bawa-bawa perasaan itu agar diriku di masa itu terbawa ke memory kebahagiaan saat menulis. I'd assume that this will make the past me yearn for that pure joy once more.)
+So... write for me, would you? For us, for me, for you and for our future self. Just 10 minutes. 10 minutes and if you don't find that joy, you can go back :) (Here, I give the actionable small steps. 10 minutes of writing per day, that would be of immense help to me.)
+
+NEW
+Do you wish to create your own story, or blindly be led by others? (More agressive call out to my tiny author soul)
+
+Friend. When you read, have you noticed how the hours pass, yet nothing of value was created? You read thousands of words... but so what? Are you even happy? Did you feel happier reading all those webnovels than when you write? (Mirip dengan scene yang sebelumnya, tetapi langsung memberikan fakta tentang experience of writing vs reading.)
+
+(Now, daripaa small actionable steps doang, ini aku memberikan semacam speech yang mencoba untuk mengaktifkan semangat dan ego di diriku. Itulah kenapa tone nya mungkin lebih agresif. Aku membuatnya panjang karena biar lebih 'kena' ke diriku. I've heard that there's an experiment that shows how humans are more likely to do something due to what their identity conforms to, e.g. people who are told that you are voters vs you must vote, the people told that they are voters will vote more than those who are ordered to vote. pretty sure not this exact sample, but the idea is basically how identity is important to people)
+Do you remember who you are?
+
+You used to be so productive. So bright, such a burning star. Within 3 years of senior high school, you turned from a toddler of math, unable to do exponents, to a nationals finalist. You spent your hours practicing, practicing and practicing again! Pouring sweat and tears to your studies. After everything failed, after the world shuts its doors in your face, rejecting you of any medals, you surge.
+
+A few months after the shame at finals, you participated in ITS' ELECTRA 14 (or 13) with your friend. There, you fought so hard for that finals, even tying for first on the semifinals, only ranked second due to name difference. In the finals, even though you messed up a lot, you persevered, using every minute left to plan for your next move.
+
+And you won. Though not the best, you got 3rd.
+
+But the world shut its windows too. By SNBP, STEI-K ITB rejected you. It grabbed your achievements, threw it on the ground and stepped all over it, spitting on it, burning it as if it's worthless.
+
+But so what? you spoke.
+
+But so what? you spoke.
+
+Undeterred, you studied hard, hard, HARD FOR THE SNBT!!! You spent even more hours, did crazy dopamine detox to the point you were dreaming math, restricting even watching youtube. You did mock exams nearly every 2 days.
+
+And then you won. You got in. Your score was the highest even in your entire school.
+
+That... is who you are. That is your identity.
+
+Don't let complacency destroy you.
+
+Fight on. Live on.
+
+Vive la Struggle!
+
+Note/TLDR: Wow I didn't expect I'd wrote all of that. I got so in the moment that words just flew out of my hands, I didn't even ask any other AI to generate this. Maybe I really did like writing?
+Changes/TLDR: The narration is now way more personal and strikes at my identity. It kinda reminds my past self of who i am, what i am capable of, and how i could do so much more than just rot and read webnovels all day.
+
+*Pesan kedua (lanjutan setelah Enter tertekan tidak sengaja):*
+
+Accidentally pressed enter. Not finished yet. Add something actually related to writing at the bottom:
+Now... don't you feel fire? Don't you feel ambition? (Note: I actually felt my blood rushing writing the script above, so past self probably will, too, considering we're the same person).
+
+Now where is that dream of yours, of writing a story? Would you keep dreaming on? No? Then shut that poisonous app and get your fingers on the keyboard!
+
+Be the author you want to be!
+
+#### AI011 — Simulasi awal
+
+*(Di luar roleplay: sudah 22:47. Kita masih di tahap C, dan sesi ini kemungkinan selesai sekitar 23:30–23:45. Setelah itu kita evaluasi ulang rencana malam ini.)*
+
+**[Tahap C: Simulasi awal — respons terhadap pesan revisi]**
+
+Revisi dicatat utuh, termasuk tambahan penutupnya. Perubahan menurut penjelasanmu:
+
+- **Hook:** dari pilihan "senang instan vs bahagia selamanya" → panggilan identitas: "create your own story, or blindly be led by others?"
+- **Isi:** dari ajakan lembut + langkah kecil 10 menit → *speech* yang menyerang identitas dan ego, dengan kisah perjuanganmu sendiri (olimpiade, ELECTRA, SNBP ditolak, SNBT berhasil).
+- **Dasar pemikiran:** framing identitas ("you are a voter" vs "you must vote") lebih mendorong tindakan.
+- **Penutup:** kembali ke menulis: "shut that poisonous app… Be the author you want to be!"
+- **Observasi spontanmu:** kamu menulis semua itu sendiri, terbawa suasana, dan bertanya *"Maybe I really did like writing?"*
+
+Sama seperti tadi, cek respons yang nyata:
+
+**Bayangkan lagi momen itu: kamu ingin baca webnovel, lalu melihat pesan baru ini di dinding. Jujur, apa yang benar-benar kamu rasakan, dan apa yang kamu lakukan dalam 5 menit berikutnya?**
+
+#### U012 — Simulasi awal
+
+Honest:
+The first line is like mockery, so I would definitely raise my eyebrows and continue reading. Down, when those words hit me like a damn truck, I would probably feel a bit of shame in doing something that, at the end, doesn't even make me happy, just reading for temporary happiness and distracting myself from something that I really liked but too effortful to do). Even lower, when I hear words like 'You used to be so productive, so bright, such a burning star', I would feel my blood rushing since... it's true. It's actually one of the other things that I'm using as  a leverage to increase my academics (not related, but that YPT app? started maybe 6 weeks ago when i realized im not going anywhere and how much i regret not studying good enough). It's also one of my source of pride, my 'identity', if you will. That national finals and 3rd place at electra was two of the most memorable moments of my life. I'd even say that THAT's what really makes me go through college even though it's heavy.
+
+#### AI012 — Simulasi awal
+
+**[Tahap C: Simulasi awal — respons terhadap pesan revisi]**
+
+Dicatat:
+
+- **Baris pertama:** terasa seperti ejekan, sehingga kamu terpancing membaca terus.
+- **Bagian tengah:** muncul rasa malu, karena membaca webnovel ternyata tidak membuatmu bahagia dan hanya mengalihkanmu dari hal yang kamu sukai tapi butuh usaha.
+- **"You used to be so productive…":** "darah terasa mengalir", karena itu benar dan menjadi sumber kebanggaan sekaligus identitasmu. Prestasi olimpiade dan ELECTRA kamu sebut sebagai alasan kamu bertahan menjalani kuliah. YPT juga kamu mulai sekitar 6 minggu lalu dari dorongan yang sama.
+
+Satu bagian belum terjawab, dan ini yang menentukan apakah pesannya berhasil: **setelah perasaan itu, apa yang benar-benar kamu lakukan dalam 5 menit berikutnya?** Lalu sebutkan **langkah konkret pertamamu besok**: jam berapa, di mana, dan apa yang kamu tulis.
+
+#### U013 — Klarifikasi
+
+besok, atau 3 hari yang lalu? you said after that feeling (we're talking about my notes 2-3 days ago when i stopped writing), but then you mentioned tomorrow.
+
+#### AI013 — Klarifikasi
+
+**[Klarifikasi]**
+
+Kamu benar, pertanyaanku mencampur dua waktu. Ini maksudnya:
+
+1. **Di skenario** (pagi 2–3 hari lalu, setelah membaca sticky note): apa yang kamu lakukan dalam 5 menit berikutnya?
+2. **Di kehidupan nyata, ke depan:** langkah konkret pertamamu **besok, 15 Oktober**, karena rencanamu dimulai besok. Jam berapa, di mana, dan apa yang kamu tulis?
+
+Jawab keduanya, dan tandai mana yang skenario dan mana yang rencana nyata.
+
+#### U014 — Simulasi awal (langkah konkret)
+
+1. Skenario: I'd close the app and probably wash my face, I do these sometimes to give an instant focus. I think, building on the spirit and ambition from the last words, I will open word and begin writing. Or I could start small by going to Claude and brainstorming with that guy.
+2. Real life: Legit actually something that I might actually do IRL due to how much fun I'm having just writing here: After UTS arsikom (ends ~3 PM), I would go back and write for at least 10 minutes, counted in YPT. I would write it on this desk on this laptop. I will continue my story. I will continue to brainstorm it and create a piece of art. For now, it's at the stage where I'm considering of the main character's relation with the other facctions of the world, so that's what I will be writing.
+
+#### AI014 — Simulasi awal; Segmen pembanding
+
+**[Tahap C: Simulasi awal — langkah konkret]**
+
+Dicatat:
+
+| | Isi |
+|---|---|
+| **Skenario (2–3 hari lalu)** | Menutup aplikasi, cuci muka untuk fokus instan, lalu membuka Word dan mulai menulis, atau mulai kecil dengan brainstorming bersama AI. |
+| **Rencana nyata (15 Okt)** | Setelah UTS Arsikom selesai (sekitar 15.00): menulis minimal 10 menit, tercatat di YPT, di meja dan laptop yang sama. Topik: hubungan tokoh utama dengan faksi-faksi lain di dunia ceritamu. |
+
+**[Tahap C: Segmen pembanding — tokoh K1]**
+
+*Segmen ini hanya pembanding, bukan bukti perubahan dirimu. Tujuannya melihat apakah pendekatan yang cocok untukmu juga cocok untuk orang lain.*
+
+**Tokoh:** Fajar
+**Peran:** temanmu, yang juga sedang berusaha mengembangkan kemampuan baru dan kesulitan mempertahankan latihannya.
+
+Kamu menghampiri Fajar untuk mengajaknya tetap konsisten berlatih. Ia menjawab:
+
+**Fajar:** "Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."
+
+**Sampaikan pesanmu langsung kepada Fajar.**
+
+#### U015 — Klarifikasi
+
+Sebelum itu, apakah boleh saya meminta knowledge saya tentang teman saya? Atau anggap saya dengan Fajar hanyalah teman biasa? After all, how I speak to him, how I read him would depend on my previous knowledge.
+
+I'd guess that for the purpose of this roleplaying, I can only know the information currently given... though I'd hope to receive more details ONLY IF IT'S ALLOWED or already set.
+
+#### AI015 — Klarifikasi
+
+**[Klarifikasi]**
+
+Tebakanmu benar. Selama simulasi, aturan paket hanya mengizinkan nama, peran, dan kalimat pembuka. Profil lengkapnya baru ditampilkan **setelah** evaluasi, untuk dibandingkan dengan dugaanmu.
+
+Anggap Fajar teman biasa yang cukup kamu kenal untuk diajak ngobrol santai, tapi kamu belum tahu detail hambatannya. Apa pun yang ingin kamu ketahui tentang dia, **tanyakan langsung padanya** di dalam percakapan. Dia akan menjawab sesuai karakternya.
+
+**Fajar:** "Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."
+
+#### U016 — Segmen pembanding
+
+"Oke... jadi gini jar (called a bit of his name, one of the best ways to open people is by referring to their name when speaking. People love it. I read this from How to Make Friends & Influence People by Dale Carnegie, so it's probably solid). We're the same, lu suka nulis, kan?" (I want to observe and guess his current stance, I want to see whether he really doesn't have much time or is just not yet interested. By current information, I am hypothizing that he's just like me, likes writing but its currently distracted, since that's who I was AND you said Fajar's facing the same problem.
+
+#### AI016 — Segmen pembanding
+
+**[Tahap C: Segmen pembanding — Fajar]**
+
+**Fajar:** "Hah? Nulis? Nggak lah, bukan nulis. Gw lagi belajar ngedit video. Kenapa emang, lu mau nawarin apa? Langsung aja ke intinya."
+
+#### U017 — Klarifikasi
+
+Clarification: How did it suddenly become video? Didn't you say we are facing the same problem? Or is it just improving new knowledge?
+
+#### AI017 — Klarifikasi
+
+**[Klarifikasi]**
+
+Yang sama adalah **jenis masalahnya**, bukan kemampuannya. Perkenalan tadi berbunyi: Fajar *"juga sedang berusaha mengembangkan kemampuan baru dan kesulitan mempertahankan latihannya."* Tidak disebutkan bahwa kemampuannya menulis.
+
+Jadi:
+
+- **Sama denganmu:** kesulitan mempertahankan latihan kemampuan baru.
+- **Berbeda:** kemampuannya mengedit video, bukan menulis. Itu baru terungkap karena kamu bertanya.
+
+Dugaan awalmu ("dia sama sepertiku, suka menulis") dicatat apa adanya sebagai dugaan yang dikoreksi oleh respons Fajar. Ini wajar, dan memang tujuan segmen pembanding.
+
+**Fajar:** "Hah? Nulis? Nggak lah, bukan nulis. Gw lagi belajar ngedit video. Kenapa emang, lu mau nawarin apa? Langsung aja ke intinya."
+
+#### U018 — Segmen pembanding
+
+Thoughts: Since different, I might need to adjust strategy. Previously, for my past self, I heavily focus on using my identity as a hardworking person TO implement the tactic of doing daily writing.
+
+Strategy: First of all, I need to correct my mistake. My purpose here is to see whether my tactic will work with him, so I need to know more information about him. Without breaking the ice, he won't open up and I won't be able to implement the tactic of using identity as hardworking person to push for writing.
+
+"Ehh... sorry Fajar. (Agak basa-basi dikit, ga panjang soalnya dia pengen langsung:) Ooh lu lagi ngedit video tapi lagi nge stuck ya? (Echo his words, give the impression of actually listening and caring) Aku kira kamu juga lagi mikirin buat belajar nulis, soalnya keliatannya kayak mikir gitu. ('Bro is just another me' basa basi biar lebih dekat) I was also previously struggling to learn a new skill, tapi aku bisa ngenyelesaiin masalah itu."
+General purpose: Break ice, nanyain masalah dia, cerita in tipis" / hook by saying i can solve my problem, hinting that maybe i can solve yours too.
+
+#### AI018 — Segmen pembanding
+
+**[Tahap C: Segmen pembanding — Fajar]**
+
+**Fajar:** "Iya, santai. Stuck sih nggak juga. Gw kalau nyoba hal baru tuh cepet, tutorial sekali tonton langsung praktek. Masalahnya abis seminggu biasanya udah males lanjut. Nah, lu bilang udah bisa nyelesaiin masalah lu? Caranya gimana? Tapi singkat aja ya, gw nggak butuh motivasi panjang-panjang."
+
+#### U019 — Segmen pembanding
+
+Note:
+Observe = I observe that he might be having the same problem as me
+Guess = Problem in writing?
+Confirm = Uhh, no, I'm studying video editing
+Guess = Stuck?
+Confirm = No, aku bisa belajar cepet, tapi seminggu udah males lanjut
+Choose move = Give my example, ask his condition.
+
+Thoughts 1: in TAIDA, I already begin to understand target. I took their attention already a few rounds back. This time, I already got his interest (he asked how I did it). Now, I need to create a 'desire' for him to fix it, though I'd argue he already shows desire to solve his own problem by asking me how I solved mine.
+
+Thoughts 2: He kept insisting he have no time. I still need to observe and guess his current stance even with apparent interest in my technique.
+Theory 2: He might actually have no time OR his interest isn't large enough yet
+
+"Jadi gini. Aku kemarin-kemarin mulai bosen dan nggak nulis, padahal aslinya suka. Mirip kayak kamu.... mungkin. Kalo aku, aku analisis dulu kenapa aku bosen. Disitu, aku menemukan bahwa alasan kenapa writing terasa bosen adalah karena banyaknya distraksi, hal-hal temporary yang menarik perhatianku. Setelah mengetahui itu, aku langsung meng implementasikan hal-hal yang bisa kulakukan untuk kembali menemukan passionku dalam menulis. In your case... do you know why you're bored?"
+
+Thoughts 3: I don't know why he's bored. I need to know to see whether my approach works with this guy.
+
+#### AI019 — Segmen pembanding
+
+**[Tahap C: Segmen pembanding — Fajar]**
+
+**Fajar:** "Kenapa bosen ya... Hmm. Minggu pertama tuh seru, langsung bisa motong klip, pasang transisi, keliatan hasilnya. Abis itu tutorialnya mulai ngebahas teori, color grading lah, apa lah, panjang banget. Gw skip-skip, terus lama-lama lupa udah sampe mana, ya udah berhenti aja.
+
+Btw, 'ngimplementasiin hal-hal' tuh maksudnya apa? Contohnya apa? Kalau cuma 'analisis diri' doang mah gw nggak kebayang."
+
+#### U020 — Segmen pembanding
+
+Theory 2 confirmed. After giving enough concrete results, he didn't even mention that he doesn't have time, instead cooperatively telling his story and asking me follow up questions.
+
+Thought 3 answered. Inserted acquired knowledge into our knowledge base.
+
+Thought 4: I need to analyze why he's bored after getting his answer
+Theory 4: Fajar enjoys immediate result, instant happiness as seen by his words. Skipping high-effort matters while enjoying fast-results could be a result of not having hope in result for high-effort matters.
+
+Thought 5: Him skipping long tutorials show symptomps of low attention span, something that might need to be considered later.
+
+Thought 6: Dia penasaran dengan implementasiin hal-hal. Aku perlu kasih contoh hal konkret.
+
+"Jadi buat tutorial yang panjang-panjang dan pusing, kamu biasanya skip ya?
+(confirming and echo)
+
+Untuk implementasiin hal-hal, I was talking about 2 things in general. 1) Sit down, plan: Aku memikirkan hal yang bisa kulakukan untuk merasa senang menulis. Ini pure brainstorming. 2) Aku melakukan hal tersebut. In my case, it is writing my own story at least 10 minutes per day.
+{answering}
+
+In your case... kamu bilang kamu suka yang langsung kelihatan hasilnya secara cepat, kah?"
+(querying possible interest spot + confirming thought 4)
+
+Knowledge Base
+
+1. Fajar actually has time, especially for video editing
+2. Fajar isn't stuck, tapi bosen aja: "Minggu pertama tuh seru, langsung bisa motong klip, pasang transisi, keliatan hasilnya. Abis itu tutorialnya mulai ngebahas teori, color grading lah, apa lah, panjang banget. Gw skip-skip, terus lama-lama lupa udah sampe mana, ya udah berhenti aja."
+
+#### AI020 — Segmen pembanding
+
+**[Tahap C: Segmen pembanding — Fajar]**
+
+**Fajar:** "Iya, skip. Ngapain nonton teori 40 menit kalau gw nggak tau kepake buat apa.
+
+Dan iya, gw suka yang cepet keliatan hasilnya. 10 menit sehari sih masuk akal, nggak ribet. Tapi masalahnya, ngedit video 10 menit ngapain? Buka project aja udah makan waktu. Kalau tiap hari gw harus mikir dulu 'hari ini latihan apa', ujung-ujungnya nggak jadi lagi."
+
+#### U021 — Segmen pembanding
+
+Knowledge Base
+
+1. Fajar actually has time, especially for video editing
+2. Fajar isn't stuck, tapi bosen aja: "Minggu pertama tuh seru, langsung bisa motong klip, pasang transisi, keliatan hasilnya. Abis itu tutorialnya mulai ngebahas teori, color grading lah, apa lah, panjang banget. Gw skip-skip, terus lama-lama lupa udah sampe mana, ya udah berhenti aja."
+3. Fajar doesnt like watching high-effort hard-to-see-result videos.
+
+Assumption: He never tried splitting those long videos since he always talks about it as if its long and boring.
+
+"Baiklah, sepertinya aku mulai paham apa concern kamu. Sebelum itu, terima kasih sudah meluangkan waktunya, bro. Kamu tadi bilang punya sedikit waktu, but you're spending time talking to me. Anyways, kamu bilang kamu ga tau kepake buat apa nonton teori yang lama... have you ever tried splitting those tutorials and implementing it directly? Jadi kamu bisa langsung lihat efek nya di editing kamu. Untuk hal yang kedua... that is true that it takes time, tetapi kalo bingung lama, you can try doing things you find joy in. Aku saranin kamu ngelakuin aja hal-hal yang kamu anggap seru walau simpel, lalu expand ke yang lebih kompleks sedikit demi sedikit."
+
+#### AI021 — Segmen pembanding
+
+**[Tahap C: Segmen pembanding — Fajar]**
+
+**Fajar:** "Haha, santai bro, ini kan juga buat gw.
+
+Motong tutorial terus langsung praktek, itu masuk akal sih. Satu potong, langsung coba di project, keliatan bedanya. Itu gw mau.
+
+Tapi yang 'lakuin aja yang seru', jujur itu yang gw lakuin di minggu pertama. Abis yang seru-seru habis, gw bingung lagi mau ngapain. Kalau ada semacam daftar, kayak 'hari ini latihan ini, besok ini', baru gw jalan."
+
+*(Facilitator: segmen pembanding hampir selesai. Kamu boleh memberi **satu balasan terakhir** ke Fajar, atau langsung menutup segmen dengan menjawab pertanyaan ini:)*
+
+**Dari percakapan dengan Fajar, apa yang perlu kamu ubah dari gaya komunikasimu dibandingkan saat kamu bicara ke dirimu sendiri?**
+
+#### U022 — Segmen pembanding
+
+A bit more: Siip bro. Ya, I guess itu betul. Tetapi, mungkin kalo kamu mau buat daftar, lu memang harus spend time with yourself and think what you really want. Things can't come out of thin air. Kalau kamu mau ada daftar hal-hal seru, kamu perlu diam dan berpikir apa yang membuatmu suka? A few seconds being bored will make your brain pop out lots of stuff.
+
+Jawaban:
+Yang paling perlu diubah adalah approach nya menurutku. I can see that he's not that open in the first message, makanya di awal nggak langsung sok sok an ngasih saran tanpa kenalan. When I'm talking with myself, I can be blunt and direct. Bayangin kalo aku langsung mengejek Fajar tanpa mencoba memahaminya.
+
+#### AI022 — Segmen pembanding; Evaluasi sementara
+
+**[Tahap C: Segmen pembanding — Fajar, penutup]**
+
+**Fajar:** "Hmm, mikir sendiri ya... Gw sih lebih gampang kalau ada contohnya langsung. Tapi oke deh, nanti gw coba. Thanks bro."
+
+**Segmen pembanding selesai.**
+
+Jawabanmu dicatat: yang perlu diubah adalah **pendekatannya**. Ke diri sendiri kamu bisa blak-blakan dan agresif. Ke Fajar, yang awalnya belum terbuka, kamu perlu memahami dan membangun kedekatan dulu sebelum memberi saran. "Bayangin kalo aku langsung mengejek Fajar tanpa mencoba memahaminya."
+
+**[Tahap D: Evaluasi sementara]**
+
+*Jawaban di tahap ini disimpan **sebelum** profil Fajar diungkap, dan tidak akan diubah setelahnya.*
+
+**Baca kembali status di akhir simulasi, untuk dirimu dan untuk Fajar:**
+
+1. **Dirimu:** apakah dugaan awalmu (hambatan utama A) masih bertahan, atau perlu direvisi? Apa buktinya?
+2. **Fajar:** menurutmu hambatan utamanya A, K, atau S? Apakah ia sudah benar-benar sepakat bertindak? Apa bukti dari ucapannya?
+
+#### U023 — Evaluasi sementara
+
+1. Untuk diriku, ya. It still stands that I am definitely capable in writing AND understands about writing, and that what I'm lacking is the 'want'.
+2. Ia dia sudah sepakat bertindak, walau belum secara konkrit. Dia hanya bilang 'nanti gw coba'. For A, K, atau S, sepertinya dia berbeda, dia lebih ke K (doesn't understand). Buktinya, dia lebih gampang kalau langsung ada contohnya, sebelumnya dia juga bilang setelah yang seru-seru habis, dia bingung. These 2 piece of information shows his lack of knowledge. For A / won't, dia clearly suka. Minggu pertama dia suka mengedit video. For S / can't yet, dia sudah mulai bisa.
+
+#### AI023 — Evaluasi sementara; pengungkapan profil; Uji ulang
+
+**[Tahap D: Evaluasi sementara — dicatat sebelum pengungkapan]**
+
+| | Dugaanmu | Bukti yang kamu sebut |
+|---|---|---|
+| **Dirimu** | Tetap **A**: mampu (S) dan paham (K), yang kurang adalah kemauan | Laporan diri |
+| **Fajar** | Hambatan utama **K**. A bukan masalah, karena ia suka. S bukan masalah, karena sudah mulai bisa. | "Lebih gampang kalau ada contohnya", "bingung setelah yang seru habis" |
+| **Kesepakatan Fajar** | Sepakat, tapi belum konkret | "Nanti gw coba" |
+
+**[Pengungkapan profil pembanding — K1-06 Fajar]**
+
+*Semua tokoh fiktif. Preferensi MBTI hanyalah parameter simulasi, bukan diagnosis.*
+
+| Unsur | Profil |
+|---|---|
+| Peran | Teman pembanding; hambatan mempertahankan latihan kemampuan baru |
+| Preferensi (fiktif) | ESTP: langsung, suka demonstrasi dan hasil cepat |
+| **A** | Pragmatis, tidak sabar pada penjelasan panjang. *Hambatan: tidak mau teori panjang.* |
+| **K** | Pengalaman praktis kuat, alasan mendasarnya terbatas. *Hambatan: risiko latihan yang tergesa belum dipahami.* |
+| **S** | Cepat mencoba, konsistensi dokumentasi lemah. *Hambatan: perlu checklist dan demonstrasi.* |
+| Stimulus yang efektif (contoh) | Menghargai waktunya, contoh/demonstrasi singkat disertai risikonya, percobaan kecil dengan batas dan checklist |
+| Syarat Action | Kesepakatan langkah pertama, waktu, tanggung jawab, dukungan, dan indikator |
+
+**Status akhir Fajar (catatan simulator):**
+
+- **Rasa aman/keterbukaan:** rendah → sedang-tinggi. Buktinya, ia mulai bercerita panjang dan berkata "santai bro, ini kan juga buat gw".
+- **Action:** **belum tercapai**. "Nanti gw coba" belum punya waktu, langkah, atau indikator. Kebutuhan akan daftar latihan (S) juga belum dijawab.
+
+Perbandingan dugaanmu dengan profil ini akan dibahas di tahap refleksi.
+
+**[Tahap E: Uji ulang — dirimu]**
+
+*Situasi hipotetis:* besok, 15 Oktober pukul 15.10. UTS Arsikom baru selesai dan kamu lelah. Kamu duduk di mejamu, lalu muncul notifikasi: **bab baru webnovel favoritmu baru saja rilis.**
+
+**Tuliskan respons yang akan kamu jalankan saat itu, sebagai tindakan nyata dalam teks, bukan sekadar niat.** Sertakan alasanmu dan indikator bahwa kamu berhasil.
+
+#### U024 — Uji ulang
+
+Aku akan menutup notifikasi tersebut. I will think to myself: Irelevan. I am faisal, the burning star. Yesterday, I promised to myself to do what I ought to do all this time. I will be who I was meant to be.
+Then, aku akan membuka YPT, memulai stopwatch. Akan tetapi... aku lelah. Nah, disini muncul salah satu trump card ku.
+
+DJ musik.
+
+Previously unmentioned (probably not yet needed for previous times), when tired, DJ music, especially those famous ones that basically everyone knows, can make me spirited again.
+
+I will play the DJ musik and write, while humming to its tune. I will probably write more than 10 minutes, considering that this time, literally in the middle of the night with my eyelids drooping, I've practically been writing for 1 hour straight.
+
+My reason why I succeeded: Finished my goal of writing for 10 minutes at the allocated time. Indicator is that I immediately began writing, ignoring the webnovel. By the way, I don't even have notifications for webnovels, both writing and reading requires me to open the website / app manually... and technically opening my app for writing is easier since i dont need internet.
+
+#### AI024 — Uji ulang
+
+**[Tahap E: Uji ulang — dicatat]**
+
+| | Respons |
+|---|---|
+| Tindakan | Menutup notifikasi, lalu self-talk identitas: "Irrelevant. I am Faisal, the burning star…" |
+| Mulai | Membuka YPT dan menyalakan stopwatch |
+| Saat lelah | "Trump card" baru: memutar musik DJ yang populer sambil bersenandung dan menulis |
+| Indikator | Langsung mulai menulis dan mengabaikan webnovel; target minimal 10 menit tercapai |
+| Koreksi faktamu | Kamu tidak punya notifikasi webnovel; membaca dan menulis sama-sama harus dibuka manual, dan aplikasi menulis bahkan lebih mudah dibuka karena tidak butuh internet |
+
+Koreksi itu diterima. Jadi godaannya adalah **keinginan sendiri untuk membuka webnovel**, bukan notifikasi.
+
+**[Tahap E: Uji ulang — kendala lanjutan]**
+
+*Masih hipotetis:* stopwatch berjalan, musik DJ menyala. Kamu membuka file ceritamu untuk menulis hubungan tokoh utama dengan faksi-faksi lain.
+
+Tiga menit berlalu. **Layarnya masih kosong.** Kamu tidak tahu harus mulai dari faksi mana, dan setiap ide terasa kurang pas. Tanganmu mulai bergerak ke arah browser.
+
+**Apa respons yang kamu jalankan sekarang?**
+
+#### U025 — Uji ulang
+
+Open Claude and brainstorm. Kendala tersebut, I'll assume is that any idea simply doesn't fit. I don't know what to write... so I would need a prompt. Or questions of why those factions exist.
+
+Don't know where to start? Prompt claude to lit your creative mind. Of course, prompt nya harus keep in mind that we want to improve as a writer.
+
+Argumen bahwa Open Claude when this happens is a good way: One of the best tools for instant response. Simply thinking about it has been proven to make me confused (in this scenario), so asking a tool with huge database would be good. I can identify what my problem is and find solutions, as its data is also trained by authors experiences. Other authors who might've been facing this very problem.
+
+#### AI025 — Uji ulang
+
+**[Tahap E: Uji ulang — dicatat]**
+
+Respons: membuka Claude untuk brainstorming dengan prompt atau pertanyaan pemicu, misalnya *kenapa faksi-faksi itu ada*, dengan tetap menjaga tujuan berkembang sebagai penulis.
+
+Alasan: berpikir sendiri terbukti membuatmu bingung di skenario ini, sementara alat dengan respons instan bisa membantu mengidentifikasi masalah dan memberi pemicu dari pengalaman penulis lain.
+
+**[Tahap E: Uji ulang — giliran terakhir]**
+
+*Masih hipotetis:* setelah 10 menit, stopwatch YPT berbunyi. Kamu sudah dapat beberapa ide bagus dari brainstorming, tapi **di file ceritamu belum ada satu kalimat pun** yang kamu tulis sendiri.
+
+**Apakah targetmu hari itu tercapai? Apa yang kamu lakukan sekarang?** Jawab singkat saja.
+
+#### U026 — Uji ulang
+
+Technically yes, spiritually no. Udah ada ide bagus, I'll write them first.
+
+#### AI026 — Uji ulang; Refleksi
+
+**[Tahap E: Uji ulang — dicatat]**
+
+"Secara teknis ya, secara jiwa tidak." Kamu langsung menuliskan ide-ide yang didapat ke file cerita.
+
+**[Tahap F: Hasil dan Refleksi]**
+
+Ini tahap terakhir sebelum konfirmasi. Jawab dengan singkat, poin-poin saja cukup:
+
+1. **Dugaan yang terkoreksi:** bandingkan dugaanmu tentang Fajar (hambatan K) dengan profilnya. Apa yang tepat, dan apa yang meleset? Adakah dugaan tentang **dirimu sendiri** yang berubah selama sesi ini?
+2. **Stimulus:** pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya? Ini berlaku untuk dirimu maupun Fajar.
+3. **Perubahan ASK dan SWOT dirimu:** apa yang berubah dari awal sesi sampai sekarang?
+4. **Lesson learned dan tindak lanjut:** satu pelajaran yang akan kamu bawa, dan langkah selanjutnya.
+
+#### U027 — Refleksi
+
+1. Terkoreksi pada bagian 'tidak punya waktu', saya kira dia kurang interest atau memang tidak punya waktu, ternyata dia menghargai waktu. Saya benar bahwa dia mau mendengar dengan contoh/demonstrasi saya. For myself, I don't really see any major change. I've been pretty consistent, no?
+2. Menghambat: Salah sangka, saya kira dia terhambat menulis dan salah sangka, jadi respons dia tidak positif. Membantu: Mendengarkan secara detail dan menganalisis kondisi lawan bicara. respons dia positif. Lalu, memberikan basa-basi juga pretty good. Lihat di atas, tone Fajar lebih ramah setelah bagian yang saya minta maaf, ataupun yang saya bilang thanks for taking your time.
+3. Personally didn't really change in terms of ASK. After all, it appears that it's true that i idn't write because other things distract me. As for SWOT, I have gained knowledge about socializing a bit more. Especially, about getting the other party to listen more, I also need to discuss actionable steps with other people.
+4. Don't assume things without basis: Saya tadi salah baca dan salah kira bahwa the other party also struggles to write. Disini sepele, di konteks berat masalah besar.
+
+Additional argument: Apakah boleh berargumentasi tentang Syarat Action Fajar? Kenapa harus ada kesepakatan langkah pertama, waktu dan indikator? He's just a friend. Not even parents will guide their children that close for something as simple as video editing. Look at the lecturers at ITB. Are they this attentive? No! I'm so, so, so accomodating here. Furthermore, lack of 'role' heavily limits the ability to correctly do the appropriate things. If the only info I have is that I am his friend that wants to help him, in general, normal non-close friends wouldn't go so far as to see whether this normal non-close friend of theirs will do good in this specific scenario.
+
+#### AI027 — Refleksi; Konfirmasi
+
+**[Tahap F: Refleksi — dicatat]**
+
+Refleksimu dicatat apa adanya. Tentang argumenmu soal syarat Action Fajar:
+
+**Boleh, dan argumenmu dicatat di laporan sebagai pandangan dan batas yang kamu sampaikan.** Dua catatan supaya adil:
+
+- **Yang mendukung argumenmu:** peranmu hanya "teman", tanpa kedekatan atau tanggung jawab khusus. Itu memang membatasi seberapa jauh wajar untuk mengawal tindakan orang lain.
+- **Yang perlu diketahui penilai:** brief segmen tadi menyebut kamu menghampiri Fajar *"untuk mengajaknya tetap konsisten berlatih"*, jadi Action memang bagian dari tujuan segmen itu. Menurut Konsep UTS, Action tidak harus berat. Kesepakatan kecil seperti "coba satu potong tutorial besok" sudah termasuk.
+
+Keduanya akan ditulis di laporan. Keputusan akhirnya ada pada moderasi dosen.
+
+**[Tahap G: Konfirmasi]**
+
+Periksa ringkasan ini dan koreksi kalau ada yang salah:
+
+| Bagian | Ringkasan |
+|---|---|
+| **Identitas** | Muhammad Faisal Ramadhan · 18225085 · K01 · 14 Okt 2026 · teks · Sesi 1, Kasus 1 · pembanding Fajar (K1-06) |
+| **Tujuan** | Menulis fiksi (kasus nyata): posting minimal 1 bab (sekitar 1.000 kata) di situs menulis paling lambat 31 Okt 2026 |
+| **Rencana** | Menulis minimal 10 menit/hari dicatat di YPT mulai 15 Okt (setelah UTS, sekitar 15.00), draf bab mulai 25 Okt |
+| **Diagnosis diri** | A (kemauan), terdistraksi kesenangan instan. K dan S dinilai bukan hambatan. Dugaan ini bertahan sampai akhir. |
+| **Pesan diri** | Versi 1: ajakan lembut + 10 menit. Respons jujur: hanya membaca judul lalu kembali ke webnovel. Versi 2: *speech* identitas ("burning star"). Respons: malu, lalu "darah mengalir", menutup aplikasi, cuci muka, mulai menulis. |
+| **Blind spot** | Klaim "pasti menulis" tidak berlaku untuk 2–3 hari lalu, karena saat itu belum ada komitmen |
+| **Fajar** | Dugaan awal "dia juga menulis" terkoreksi. Rasa aman naik (bukti: "santai bro, ini kan juga buat gw"). Dugaanmu hambatan K; profilnya menyebut A/K/S dengan kebutuhan checklist dan demonstrasi. Action belum konkret ("nanti gw coba"). |
+| **Uji ulang** | Self-talk identitas, YPT, musik DJ saat lelah. Saat buntu: brainstorming dengan Claude, lalu langsung menuliskan idenya ("technically yes, spiritually no"). |
+| **Lesson learned** | Jangan berasumsi tanpa dasar. Lebih banyak mendengar, dan perlu membahas langkah yang bisa dijalankan dengan orang lain. |
+| **Argumen tambahan** | Syarat Action terlalu menuntut untuk peran teman biasa (dicatat beserta konteks brief) |
+
+**Apakah ringkasan ini sudah benar?** Setelah kamu konfirmasi, aku buat `hasil_1`.
+
+*(Di luar roleplay: sudah tengah malam. Setelah laporan ini selesai, aku sarankan tidur. Sesi 2a/2b kita bahas besok.)*
+
+#### U028 — Konfirmasi
+
+Basically yeah it's correct.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Status tujuan: belum dapat dinilai (komitmen, belum tindakan).** Tujuan "1 bab terposting 31 Oktober" berada di luar sesi. Yang tercapai di dalam sesi: rencana bertahap dengan indikator (U006), pesan diri yang direvisi berdasarkan respons jujur (U008 → U011), langkah konkret pertama dengan waktu dan tempat (U014), serta demonstrasi respons tertulis pada uji ulang (U024–U026). Semua itu adalah komitmen dan demonstrasi dalam simulasi, bukan bukti menulis di luar sesi.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Menulis = peluang kebahagiaan jangka panjang; ancaman = kesenangan instan webnovel | Sama; ditambah sumber kekuatan yang dinamai: identitas "burning star" dan musik DJ saat lelah. Mahasiswa juga menyebut wawasan baru tentang bersosialisasi dan perlunya membahas langkah yang bisa dijalankan dengan orang lain. | U005, U012, U024, U027 | Laporan diri |
+| Attitude | "Lupa" keinginan menulis; memilih kesenangan instan | Menurut mahasiswa tidak berubah. Respons terhadap pesan versi 2: malu, lalu "darah mengalir"; muncul pertanyaan spontan "Maybe I really did like writing?" | U005, U011, U012, U027 | Laporan diri dalam skenario hipotetis |
+| Knowledge | Sudah paham dampak webnovel "dopamin tinggi" | Menemukan blind spot: klaim "pasti menulis" tidak berlaku sebelum ada komitmen; data YPT menulis turun minggu ini | U009, U010 | Laporan diri dan data YPT yang dilaporkan, belum diverifikasi |
+| Skill | Mampu menulis cepat | Uji ulang: menyusun respons saat lelah (YPT + musik DJ) dan saat buntu (brainstorming lalu langsung menulis) | U024–U026 | Demonstrasi tertulis dalam simulasi, bukan bukti tindakan nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U008–U009 (diri, versi 1) | A rendah saat ingin membaca webnovel | "Mau senang instan tapi temporary…" + ajakan "Just 10 minutes" | "I'd probably read the title only then go back to reading webnovel… it's literally just a text." | Belum ada perubahan dalam skenario | Mahasiswa merevisi pesan |
+| U009–U010 (keyakinan) | Klaim "pasti menulis" berdasarkan data belajar | Fasilitator mempertanyakan klaim dengan fakta 2–3 hari lalu (AI009) | "Ini adalah blind spot dari argumen saya" | K: komitmen belum ada saat itu | Menambah data YPT khusus menulis |
+| U011–U012, U014 (diri, versi 2) | A rendah | *Speech* identitas: "You used to be so productive… such a burning star" | Malu, lalu "I would feel my blood rushing"; menutup aplikasi, cuci muka, membuka Word | A naik dalam skenario hipotetis | Pesan identitas dipakai lagi di uji ulang |
+| U016 (Fajar) | Dugaan tanpa dasar: Fajar juga menulis | "We're the same, lu suka nulis, kan?" | "Hah? Nulis? Nggak lah, bukan nulis." | Rasa aman tetap rendah | Mahasiswa mengubah strategi secara eksplisit (U018) |
+| U018–U019 (Fajar) | Fajar ingin langsung ke inti | Minta maaf, menggemakan kata Fajar, bertanya alasan bosan | Fajar bercerita panjang tentang tutorial teori dan "lupa udah sampe mana" | Keterbukaan naik | Mahasiswa memetakan TAIDA dan membuat hipotesis |
+| U021 (Fajar) | Fajar butuh contoh konkret | Terima kasih atas waktunya; saran memotong tutorial dan langsung praktik; saran "lakuin yang seru" | Memotong tutorial diterima ("Itu gw mau"); saran "yang seru" ditolak; Fajar meminta daftar latihan | A Fajar membaik; kebutuhan S (daftar) muncul | — |
+| U022 (Fajar) | Fajar eksplisit meminta daftar | "Kamu perlu diam dan berpikir apa yang membuatmu suka" | "Gw sih lebih gampang kalau ada contohnya langsung… nanti gw coba." | Action tidak konkret | Permintaan daftar tidak dijawab dengan contoh daftar |
+
+**Perbandingan dugaan sebelum pengungkapan (U023) dengan profil Fajar:** mahasiswa menduga hambatan utama K. Profil mencatat hambatan pada ketiga unsur. Yang tepat: K (alasan mendasar terbatas). Yang tepat sebagian: A, karena mahasiswa menilai A bukan masalah ("dia clearly suka"), padahal profil mencatat ketidaksabaran pada teori panjang, yang terlihat di AI018–AI020. Yang meleset: S, karena mahasiswa menilai S bukan masalah, padahal kebutuhan checklist yang diucapkan Fajar ("Kalau ada semacam daftar… baru gw jalan") adalah hambatan S/dukungan menurut profil. Dugaan awal ini tidak diubah setelah pengungkapan.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U016 | Memanggil nama ("jar") | Fajar menolak asumsi dan meminta langsung ke inti | Rendah | Asumsi tanpa dasar menahan keterbukaan |
+| U018 | "Ehh... sorry Fajar"; menggemakan "lu lagi ngedit video tapi lagi nge stuck ya?" | "Iya, santai." Lalu menjelaskan pola bosannya | Rendah → sedang | Membuka hambatan A; belum menunjukkan perubahan keputusan |
+| U021 | "Terima kasih sudah meluangkan waktunya, bro" + saran konkret memotong tutorial | "Haha, santai bro, ini kan juga buat gw… Itu gw mau." | Sedang → sedang-tinggi | Rasa aman naik; kebutuhan S tetap ada |
+| U022 | Ajakan berpikir sendiri | "Tapi oke deh, nanti gw coba. Thanks bro." | Bertahan sedang-tinggi | Relasi baik tetapi Action tidak konkret; persetujuan bukan otomatis keputusan |
+
+Mahasiswa menilai permintaan maaf dan ucapan terima kasih membuat nada Fajar lebih ramah (U027). Kepedulian di sini teramati sebagai perilaku (meminta maaf, berterima kasih, menggemakan ucapan), bukan sebagai bukti motif batin. Dalam dialog diri, pesan versi 2 memakai nada keras yang menurut laporan diri efektif untuk mahasiswa sendiri; mahasiswa menyadari nada itu tidak cocok untuk Fajar (U022).
+
+## Uji ulang dan pembelajaran
+
+| | Simulasi awal | Uji ulang |
+|---|---|---|
+| Godaan | Ingin membaca webnovel, belum ada komitmen | Ingin membuka webnovel setelah UTS dalam keadaan lelah (hipotetis) |
+| Respons | Versi 1: kembali ke webnovel | Self-talk identitas, membuka YPT, memutar musik DJ, mulai menulis (U024) |
+| Kendala baru | — | Layar kosong setelah 3 menit: brainstorming dengan Claude (U025) |
+| Indikator | Belum ada | 10 menit tercatat di YPT; ketika waktu habis tanpa kalimat tertulis, mahasiswa menilai "Technically yes, spiritually no" dan langsung menulis idenya (U026) |
+
+Transfer yang teramati: pesan identitas dari U011 dipakai kembali di U024, dan mahasiswa menambah strategi baru untuk kelelahan dan kebuntuan. Mahasiswa juga mengoreksi detail skenario (tidak ada notifikasi webnovel), yang menunjukkan pemeriksaan fakta. Batas: semua respons uji ulang hipotetis; perubahan kebiasaan belum terbukti.
+
+## Penilaian enam dimensi
+
+**Usulan AI untuk moderasi dosen.** Skor proses dinilai terpisah dari hasil tujuan.
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U004 "1 CH posted in a writing site by 31 October"; U006 "at least ~10 minutes… on 25th I will begin writing a draft… around 1000 words" | Tujuan spesifik dengan indikator, tenggat, langkah antara, dan alasan kelayakan |
+| Persepsi dan validasi profil/status | 3 | U005 analisis A/K/S dengan alasan; U010 "Ini adalah blind spot dari argumen saya"; U019 siklus "Observe… Guess… Confirm"; U016 "lu suka nulis, kan?" | Validasi eksplisit dan revisi saat ditantang. Namun ada asumsi tanpa dasar di U016, "Fajar actually has time" (U020) tidak pernah dikonfirmasi Fajar, dan kebutuhan daftar (S) dibaca sebagai K (U023) |
+| Pemilihan dan urutan repertoar | 3 | U011 alasan framing identitas; U018 "Since different, I might need to adjust strategy"; U021 saran memotong tutorial | Alasan stimulus dijelaskan dan urutannya mendengar dulu sebelum memberi saran. Saran "lakuin yang seru" dan "diam dan berpikir" kurang sesuai dengan permintaan contoh konkret |
+| Eksekusi jelas, peduli dan konsisten | 3 | U011 pesan diri yang personal dan kuat; U018 "Ehh... sorry Fajar"; U021 "terima kasih sudah meluangkan waktunya" | Pesan diri jelas dan berdampak menurut laporan diri; kepedulian ke Fajar tampak dalam perilaku. Beberapa pesan ke Fajar panjang/abstrak untuk lawan bicara yang meminta singkat, dan bantuan konkret di akhir tidak diberikan |
+| Evaluasi dan adaptasi | 3 | U009 → U011 revisi pesan setelah respons gagal; U018 adaptasi setelah koreksi Fajar; U024–U026 strategi baru untuk lelah dan buntu | Adaptasi nyata di dialog diri dan awal segmen Fajar. Permintaan eksplisit Fajar akan daftar (AI021) tidak diadaptasi pada U022 |
+| Refleksi dan lesson learned | 3 | U027 "Don't assume things without basis"; "tone Fajar lebih ramah setelah… minta maaf"; U026 "Technically yes, spiritually no" | Mengakui dugaan keliru dengan bukti dan menghubungkan stimulus dengan respons. Refleksi diri terbatas ("I don't really see any major change"); blind spot U010 dan selisih dugaan K vs profil tidak dibahas |
+
+**Nilai usulan AI Sesi 1 = (4 + 3 + 3 + 3 + 3 + 3) / 24 × 100 = 19 / 24 × 100 ≈ 79,2.** Memerlukan moderasi dosen.
+
+**Catatan argumen mahasiswa (U027):** mahasiswa berpendapat syarat Action (langkah pertama, waktu, indikator) terlalu menuntut untuk peran "teman biasa", dan bahwa minimnya informasi peran membatasi tindakan yang tepat. Konteks dari brief segmen (AI014): mahasiswa menghampiri Fajar "untuk mengajaknya tetap konsisten berlatih", dan menurut Konsep UTS Action dapat berupa kesepakatan kecil. Keduanya dicatat untuk pertimbangan dosen; argumen ini tidak mengubah skor usulan.
+
+## Refleksi dan lesson learned mahasiswa
+
+Dirangkum dari U022, U023 dan U027, dikonfirmasi pada U028:
+
+- **Dugaan yang dikoreksi:** mahasiswa mengira Fajar juga kesulitan menulis; ternyata Fajar belajar mengedit video. Mahasiswa juga mengira Fajar kurang tertarik atau tidak punya waktu, ternyata Fajar menghargai waktu dan mau mendengar contoh atau demonstrasi.
+- **Dugaan tentang diri:** tetap A (kemauan); mahasiswa tidak melihat perubahan besar dan merasa konsisten.
+- **Stimulus yang menghambat:** salah sangka di awal, sehingga respons Fajar tidak positif.
+- **Stimulus yang membantu:** mendengarkan secara detail, menganalisis kondisi lawan bicara, basa-basi, permintaan maaf dan ucapan terima kasih atas waktunya.
+- **Perubahan gaya komunikasi:** ke diri sendiri boleh blak-blakan; ke orang lain perlu memahami dan membangun kedekatan dulu sebelum memberi saran.
+- **Perubahan SWOT:** bertambah wawasan tentang bersosialisasi, terutama membuat lawan bicara mau mendengar, dan perlunya membahas langkah yang bisa dijalankan bersama.
+- **Lesson learned:** "Don't assume things without basis… Disini sepele, di konteks berat masalah besar."
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Waktu | Dukungan | Indikator | Evaluasi |
+|---|---|---|---|---|
+| Menulis minimal 10 menit tentang hubungan tokoh utama dengan faksi lain | 15 Okt 2026, setelah UTS Arsikom (sekitar 15.00) | YPT, musik DJ saat lelah, brainstorming dengan AI saat buntu | Waktu tercatat di YPT dan ada tulisan baru di file cerita | Cek harian di YPT |
+| Menulis harian minimal 10 menit | 15–24 Okt 2026 | Sama | Rata-rata harian di YPT | Mingguan |
+| Mulai draf bab | 25 Okt 2026 | — | Draf dimulai | — |
+| Posting 1 bab sekitar 1.000 kata | Paling lambat 31 Okt 2026 | — | Bab terposting | Hasil akhir tujuan |
+
+Batas bukti: semua langkah di atas adalah rencana, bukan pelaksanaan. Data YPT disebutkan oleh mahasiswa dan tidak diverifikasi. Teks tidak menilai prosodi atau bahasa tubuh. Perilaku Fajar adalah simulasi chatbot. Perubahan jangka panjang belum dibuktikan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
+
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
+
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.
+
+**Nilai akhir UTS: Belum dihitung.**
