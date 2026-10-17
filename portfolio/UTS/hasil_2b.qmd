@@ -1,0 +1,687 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Muhammad Faisal Ramadhan |
+| NIM | 18225085 |
+| Kelas dan tanggal | K01; 17 Oktober 2026 (12.45–14.01 WIB) |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 — Persahabatan dan profesionalitas |
+| Nama dan ID target | Budi (K2-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md (dipilih acak tanpa pengulangan di dalam kasus) |
+| Modalitas | Teks, melalui chatbox AI Claude (bukan ChatGPT); tidak ada transkripsi suara |
+| Kasus nyata/fiktif | Fiktif (skenario simulasi) |
+| Kelengkapan transkrip | Lengkap dari U001 sampai U019. Catatan di luar roleplay ikut disalin dan ditandai. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief (sama dengan Sesi 2a):** tenggat tugas kelompok tinggal 48 jam lagi. Rekan dekat di kelompok belum mengirim bagiannya dan merasa pembagian tugasnya tidak adil. Mahasiswa mengajaknya bicara untuk menjaga hubungan dan menyepakati tanggung jawab. Sasaran sesi ini berbeda dari Sesi 2a: Budi (K2-02).
+
+**Tujuan (U003, dikoreksi di U004):**
+
+| Tujuan | Isi | Indikator |
+|---|---|---|
+| Hubungan | Menjaga, bahkan meningkatkan hubungan dengan Budi sebagai teman dekat | (d) Percakapan berakhir tanpa Budi masih merasa diperlakukan tidak adil |
+| Tugas | Pekerjaan berlanjut dengan memperbaiki pembagian job desk dan menetapkan tenggat untuk bagian yang belum selesai | (a) Budi setuju mengerjakan job desk tertentu (U003 tertulis "Fajar", dikoreksi di U004); (b) sebagian dibantu mahasiswa atau anggota lain; (c) tenggat ditetapkan untuk tiap bagian |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: memperbaiki pembagian dengan dasar yang disepakati. Ancaman: menyelesaikan masalah sebelum memahaminya. | U004 "Harus tau masalah sebelum aku coba solve." | Sementara |
+| Attitude | Ingin menjaga hubungan; terbuka mengakui usulan lawan bicara lebih masuk akal | U003, U008 "jalan pikirmu lebih masuk akal" | Teramati |
+| Knowledge | Memakai pengalaman Sesi 2a: dugaan gaya bicara mungkin berbeda dari Fajar | U004 Q3 | Laporan diri |
+| Skill | Board A/Q/C, perhitungan beban per jam, penjadwalan dengan buffer | U005–U017 | Teramati di transkrip |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan | — | — |
+| Karakter, peran, kultur/ko-kultur | Teman dekat satu kelompok; menyesuaikan register menjadi lebih formal setelah membaca gaya Budi (C1, U009) | U009 | Teramati |
+
+## Dugaan awal profil target dan rencana
+
+Dicatat sebelum pengungkapan profil:
+
+- **Dugaan (U004):** Budi belum mengirim bagiannya karena merasa pembagian tidak adil.
+- **Rencana (U004):** 2–3 giliran discovery tentang sifat dan kondisi Budi sebelum mencoba menyelesaikan.
+- **Board awal (U004):** Q1 merasa tidak adil; Q2 ingin sebagian tugasnya diserahkan ke orang lain; Q3 gaya bicaranya mungkin berbeda dari Fajar dan lebih banyak bicara (perlu observasi).
+
+Rencana TAIDA tidak dirumuskan eksplisit oleh mahasiswa; tabel berikut disusun dari U003–U009.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Budi; tujuan relasi (d) dan tugas (a)–(c) | Dugaan: rasa tidak adil | Discovery 2–3 giliran, board | Indikator (a)–(d) |
+| Attention | Budi menolak perubahan ("Mengapa harus berubah?") | A | Mengakui cara Budi sudah jelas, lalu menanyakan fakta (U005) | Budi menjelaskan posisinya |
+| Interest | Pembagian dianggap tidak terukur | A/K | Pertanyaan terbuka tentang alasan (U006) | Budi memberi rincian beban |
+| Desire | Belum mau setuju tanpa dasar | K | Perbandingan beban per jam (U008, U009) | Budi setuju dengan metode |
+| Action | Bagian belum dikirim | S | Pembagian, jam, dan tenggat ditulis di grup (U008–U013) | Kesepakatan tertulis |
+
+# C) Skrip Percakapan
+
+**Transkrip aktual, bukan dialog karangan.** Kutipan disalin tanpa perbaikan ejaan. Label tahap: Identifikasi, Kasus dan Tujuan, Simulasi awal, Evaluasi sementara, Uji ulang, Refleksi, Konfirmasi.
+
+#### U001 — Identifikasi
+
+Start 2b now, rest additional later.
+
+#### AI001 — Identifikasi
+
+**[AI001 · menanggapi U001]**
+
+*(Di luar roleplay: mau transkrip 2b juga kucatat di **temporary** seperti 2a? Jawab ya/tidak bersama data identifikasimu.)*
+
+**[Sesi 2b · Kasus 2 — Tahap A: Identifikasi]**
+
+Selamat datang di Sesi 2b UTS KIPP 2026 (paket versi 2.0). Mulai dari sini, semua giliran dicatat sebagai transkrip untuk laporan `hasil_2b`.
+
+Paket ini tercatat atas nama **Muhammad Faisal Ramadhan**, NIM **18225085**, sesi 2b (urutan 3 dari 5). Data ini baru penugasan dari paket, belum verifikasi identitas.
+
+Tolong konfirmasi dan lengkapi dalam satu balasan:
+
+- Nama dan NIM (tulis ulang sebagai teks)
+- Kelas
+- Tanggal hari ini
+- Modalitas: teks atau suara
+
+#### U002 — Identifikasi
+
+[Yes, just like before]
+Muhammad Faisal Ramadhan 18225085
+K01
+17 Oktober 2026
+Teks
+
+#### AI002 — Identifikasi; Kasus dan Tujuan
+
+**[AI002 · menanggapi U002]**
+
+*(Di luar roleplay: siap, transkrip 2b dicatat di **temporary**, tepat di bawah Tips.)*
+
+**[Tahap A: Identifikasi — konfirmasi]**
+
+| Elemen | Data |
+|---|---|
+| Nama | Muhammad Faisal Ramadhan |
+| NIM | 18225085 |
+| Kelas | K01 |
+| Tanggal | 17 Oktober 2026 |
+| Modalitas | Teks |
+| Sesi | 2b — Kasus 2 |
+
+**[Tahap B: Kasus dan Tujuan]**
+
+**Brief kasus** (sama dengan 2a): Tenggat tugas kelompok tinggal **48 jam lagi**. Rekan dekatmu di kelompok **belum mengirim bagiannya** dan **merasa pembagian tugasnya tidak adil**. Kamu mengajaknya bicara untuk **menjaga hubungan** dan **menyepakati tanggung jawab**.
+
+Tokoh yang akan kamu ajak bicara adalah **Budi**, teman dekatmu di kelompok kuliah ini. Ia orang baru; tidak ada kepercayaan atau informasi yang terbawa dari Sesi 2a.
+
+**Apa tujuanmu untuk percakapan ini?** Sebutkan hasil yang kamu inginkan untuk hubungan dan untuk tugasnya, beserta indikator bahwa tujuan itu tercapai.
+
+#### U003 — Kasus dan Tujuan
+
+Relationship Goal: Maintain and even improve the relationship between me and Budi as close friends. Indicator (d) The conversation ends without Budi still feeling treated unfairly
+Assignment Goal: Make the progress continue by fixing job desk and giving deadlines for the not-yet completed. Indicator can be shown by (a) Fajar agreeing to do a certain job desk and (b), possibly, some job desk will be helped by me or the others and (c) a deadline will be set for completing each work.
+
+#### AI003 — Kasus dan Tujuan
+
+**[AI003 · menanggapi U003]**
+
+**[Tahap B: Kasus dan Tujuan — tujuan dicatat]**
+
+| Tujuan | Isi | Indikator |
+|---|---|---|
+| **Hubungan** | Menjaga, bahkan meningkatkan hubungan dengan Budi sebagai teman dekat | (d) Percakapan berakhir tanpa Budi masih merasa diperlakukan tidak adil |
+| **Tugas** | Pekerjaan berlanjut dengan memperbaiki pembagian job desk dan menetapkan tenggat untuk bagian yang belum selesai | (a) setuju mengerjakan job desk tertentu; (b) sebagian dibantu olehmu atau anggota lain; (c) tenggat ditetapkan untuk tiap bagian |
+
+*Catatan fakta:* di indikator (a) tertulis **"Fajar"**. Maksudnya Budi?
+
+Sebelum percakapan dimulai: **apa dugaan awalmu tentang kondisi Budi sekarang, dan bagaimana rencanamu membuka percakapan?**
+
+#### U004 — Kasus dan Tujuan
+
+Note: Ya, itu typo dan itu Budi
+
+Dugaan kondisi: Budi belum mengirim bagian tugasnya karena merasa pembagian tugasnya tidak adil (dari soal).
+Rencana: 2-3 turns untuk discovery sifat dan kondisi Budi. Harus tau masalah sebelum aku coba solve.
+
+[Board] A = fix, Q = guess, C = action
+Q1: Budi merasa pembagian tugas tidak adil
+Q2: Budi ingin bagian tugasnya ada yang diserahkan ke orang lain juga
+Q3: Budi mungkin beda dengan Fajar secara style nya karena ini beda soal. Saya baru guess Budi lebih banyak ngomong dibanding Fajar yang concise. Ini perlu observasi.
+[End]
+
+#### AI004 — Kasus dan Tujuan; Simulasi awal
+
+**[AI004 · menanggapi U004]**
+
+**[Tahap B: Kasus dan Tujuan — dicatat]**
+
+- **Koreksi:** indikator (a) berlaku untuk **Budi**.
+- **Dugaan awal:** Budi belum mengirim bagiannya karena merasa pembagian tidak adil.
+- **Rencana:** 2–3 giliran pertama untuk discovery sifat dan kondisi Budi, sebelum mencoba menyelesaikan.
+- **Board:** Q1 merasa tidak adil; Q2 ingin sebagian tugasnya diserahkan ke orang lain; Q3 gaya bicaranya mungkin berbeda dari Fajar, mungkin lebih banyak bicara (perlu observasi).
+
+**[Tahap C: Simulasi awal — dimulai]**
+
+*Mulai dari sini kamu bicara langsung kepada Budi. Alasan atau strategi boleh ditulis dalam kurung atau di board.*
+
+Kamu menemui Budi dan bilang ingin ngobrol soal tugas kelompok dan pembagiannya. Ia menjawab:
+
+**Budi:** "Cara sekarang sudah jelas. Mengapa harus berubah?"
+
+#### U005 — Simulasi awal
+
+Dugaan kondisi:
+
+1. Budi belum mengirim bagian tugasnya karena merasa pembagian tugasnya tidak adil (dari soal).
+
+Rencana:
+
+1. 2-3 turns untuk discovery sifat dan kondisi Budi. Harus tau masalah sebelum aku coba solve. (in progress, turn 1)
+
+[Board] A = fix, Q = guess, C = action
+Q1: Budi merasa pembagian tugas tidak adil
+Q2: Budi ingin bagian tugasnya ada yang diserahkan ke orang lain juga
+Q3: Budi mungkin beda dengan Fajar secara style nya karena ini beda soal. Saya baru guess Budi lebih banyak ngomong dibanding Fajar yang concise. Ini perlu observasi.
+Q4: Sama-sama concise kayak Fajar, hanya beda masalah saja
+A1 (K): Budi merasa sekarang sudah jelas artinya dia sangat paham
+[End]
+
+"Permisi bro, iya. Memang sudah jelas, tapi aku notice kamu belum kirimin bagian tugas kamu. Ada masalah ga ya?"
+
+#### AI005 — Simulasi awal (Budi)
+
+**[AI005 · menanggapi U005]**
+
+**[Tahap C: Simulasi awal — Budi]**
+
+**Budi:** "Yang aku bilang jelas itu cara kerjaku buat bagianku sendiri. Aku kerjain urut, sesuai langkahnya. Yang nggak jelas itu pembagiannya. Waktu itu kita cuma bagi per bab, satu orang satu bab, tapi nggak ada yang ngitung isi tiap bab seberapa banyak. Jadi bukan aku nggak mau ngirim. Aku cuma nggak setuju pembagiannya dianggap sudah adil."
+
+#### U006 — Simulasi awal
+
+Dugaan kondisi:
+
+1. Budi belum mengirim bagian tugasnya karena merasa pembagian tugasnya tidak adil (dari soal).
+
+Rencana:
+
+1. 2-3 turns untuk discovery sifat dan kondisi Budi. Harus tau masalah sebelum aku coba solve. (in progress, turn 2)
+
+[Board] A = fix, Q = guess, C = action
+Q2: Budi ingin bagian tugasnya ada yang diserahkan ke orang lain juga
+Q3: Budi mungkin beda dengan Fajar secara style nya karena ini beda soal. Saya baru guess Budi lebih banyak ngomong dibanding Fajar yang concise. Ini perlu observasi.
+Q4: Sama-sama concise kayak Fajar, hanya beda masalah saja
+A1 (K): Budi merasa sekarang sudah jelas artinya dia sangat paham
+A2 (A): Budi merasa pembagian tugas tidak adil
+[End]
+
+"Ooh, oke, kamu ga setuju pembagiannya ya? Menurut kamu kenapa engga adil? Dari kamu hitung, pekerjaan kamu lebih berat dari yang lain ya?"
+
+#### AI006 — Simulasi awal (Budi)
+
+**[AI006 · menanggapi U006]**
+
+**[Tahap C: Simulasi awal — Budi]**
+
+**Budi:** "Justru itu masalahnya, belum ada yang ngitung, termasuk aku secara pasti. Tapi coba lihat isinya. Babku metodologi sama implementasi: ada empat subbab, harus bikin diagram alur, terus ada uji coba yang hasilnya ditabelkan. Bab pendahuluan cuma latar belakang sama rumusan masalah, paling dua halaman. Kalau dua itu dianggap sama beratnya karena sama-sama satu bab, itu yang menurutku nggak adil."
+
+#### U007 — Simulasi awal
+
+Dugaan kondisi:
+
+1. Budi belum mengirim bagian tugasnya karena merasa pembagian tugasnya tidak adil (dari soal).
+
+Rencana:
+
+1. 2-3 turns untuk discovery sifat dan kondisi Budi. Harus tau masalah sebelum aku coba solve. (in progress, turn 3)
+
+[Board] A = fix, Q = guess, C = action
+Q2: Budi ingin bagian tugasnya ada yang diserahkan ke orang lain juga
+Q3: Budi mungkin beda dengan Fajar secara style nya karena ini beda soal. Saya baru guess Budi lebih banyak ngomong dibanding Fajar yang concise. Ini perlu observasi.
+Q4: Sama-sama concise kayak Fajar, hanya beda masalah saja
+Q5: Agak beda dengan Fajar. Kayaknya Budi lebih formal dan tidak suka menggunakan 'bro' atau 'bray'.
+A1 (K): Budi merasa sekarang sudah jelas artinya dia sangat paham
+A2 (A): Budi merasa pembagian tugas tidak adil:
+Yang dia metodologi&implementasi, 4 subbab, ada diagram alur, ada uji coba yang hasilnya di tabelkan.
+Bab pendahuluan cuma latar belakang sama rumusan masalah.
+[End]
+
+"Kamu benar bro. Aku setuju dengan mu. Hmm... bagaimana kalau kita ratakan saja job desk nya, agar fair. Pembagian bab tetap seperti sebelumnya, tetapi untuk kasus kamu, bab mu kita bagi 2. 1) bagian yang memang bagianmu, jumlah sama dengan pendahuluan yaitu 2 halaman. Mungkin 3 subbab di 2 halaman? 2) Sisanya, 1 subbab, diagram alur serta uji coba yang hasilnya ditabelkan, kita bagi rata lagi. Kamu buat 1 subbab dan buat diagram alur, lalu uji coba yang hasilnya ditabelkan serahkan ke aku. By the way, dengan waktu 48 jam, gimana kalo kita limit pengerjaan kita sampai jam 30, dimana 6 jam sampai jam 36 kita pakai buat revisi kalau ada bagian yang menurut di antara kita kurang. Lalu, untuk 12 jam sisanya kita biarkan untuk buffer zone. Bagaimana menurut mu bray?"
+
+#### AI007 — Simulasi awal (Budi)
+
+**[AI007 · menanggapi U007]**
+
+**[Tahap C: Simulasi awal — Budi]**
+
+**Budi:** "Makasih sudah mau ngakuin itu. Tapi aku belum bisa langsung setuju. Dasarnya apa babku dipotong jadi dua halaman? Jumlah halaman itu bukan ukuran beban. Diagram alur bisa makan waktu lebih lama dari dua halaman teks. Terus uji coba itu nyambung langsung sama implementasiku. Kalau kamu yang ngerjain, kamu harus tahu dulu langkah-langkahnya, kalau nggak hasilnya bisa beda. Aku lebih tenang kalau beban tiap bab dibandingin dulu, misalnya perkiraan jamnya, baru dibagi ulang. Soal jam 30, 36, sama buffer, itu masuk akal. Tapi semuanya harus ditulis, jangan cuma diomongin."
+
+#### U008 — Simulasi awal
+
+Dugaan kondisi:
+
+1. Budi belum mengirim bagian tugasnya karena merasa pembagian tugasnya tidak adil (dari soal).
+
+Rencana:
+
+1. 2-3 turns untuk discovery sifat dan kondisi Budi. Harus tau masalah sebelum aku coba solve. (in progress, turn 3)
+
+[Board] A = fix, Q = guess, C = action
+Q2: Budi ingin bagian tugasnya ada yang diserahkan ke orang lain juga
+Q3: Budi mungkin beda dengan Fajar secara style nya karena ini beda soal. Saya baru guess Budi lebih banyak ngomong dibanding Fajar yang concise. Ini perlu observasi.
+Q4: Sama-sama concise kayak Fajar, hanya beda masalah saja
+Q5: Agak beda dengan Fajar. Kayaknya Budi lebih formal dan tidak suka menggunakan 'bro' atau 'bray'.
+A1 (K): Budi merasa sekarang sudah jelas artinya dia sangat paham
+A2 (A): Budi merasa pembagian tugas tidak adil:
+Yang dia metodologi&implementasi, 4 subbab, ada diagram alur, ada uji coba yang hasilnya di tabelkan.
+Bab pendahuluan cuma latar belakang sama rumusan masalah.
+[End]
+
+"Atas dasar Bab Pendahuluan hanya 2 halaman, makanya aku berpikir kita set dulu 2 halaman sebagai 'minimum'. Tetapi, jalan pikirmu lebih masuk akal. Baiklah, bagaimana kalau kita menuliskan dulu beban per bab, dimulai dengan men-list bab-bab yang ada, berapa orang di tim kita, perkiraan jam per bab, baru dibagi ulang? Aku juga akan tuliskan tentang jam 30 finish jam 36 finish revisi sisanya buffer. Aku tawarkan aku saja yang tulis di laptopku, karena aku sekarang bawa laptop dan ada koneksi data ke ponselku. Setuju?"
+
+#### AI008 — Simulasi awal (Budi)
+
+**[AI008 · menanggapi U008]**
+
+**[Tahap C: Simulasi awal — Budi]**
+
+**Budi:** "Setuju, itu yang aku mau dari awal. Kita berempat, empat bab. Untuk babku aku bisa kasih perkiraan: metodologi sekitar 3 jam, diagram alur 2 jam, implementasi sama uji coba plus tabel sekitar 5 jam. Jadi kira-kira 10 jam. Pendahuluan mungkin 2 jam, tinjauan pustaka 4 jam, penutup 2 jam, tapi itu lebih baik dicek ke yang pegang masing-masing. Nanti kalau ternyata ada bagian babku yang dipindah, aku tuliskan langkah-langkah uji cobanya, biar yang ngerjain nggak meraba-raba."
+
+#### U009 — Simulasi awal
+
+Dugaan kondisi:
+
+1. Budi belum mengirim bagian tugasnya karena merasa pembagian tugasnya tidak adil (dari soal).
+
+Rencana:
+
+1. 2-3 turns untuk discovery sifat dan kondisi Budi. Harus tau masalah sebelum aku coba solve. (in progress, turn 3)
+
+[Board] A = fix, Q = guess, C = action
+Q2->A4: Budi ingin bagian tugasnya ada yang diserahkan ke orang lain juga agar lebih fair sepertinya
+A1 (K): Budi merasa sekarang sudah jelas artinya dia sangat paham
+A2 (A): Budi merasa pembagian tugas tidak adil:
+Yang dia metodologi&implementasi, 4 subbab, ada diagram alur, ada uji coba yang hasilnya di tabelkan.
+Bab pendahuluan cuma latar belakang sama rumusan masalah.
+A3 (Personality): Agak beda dengan Fajar. Kayaknya Budi lebih formal dan tidak suka menggunakan 'bro' atau 'bray'.
+C1: Karena Budi lebih formal dari Fajar, aku tidak akan menggunakan kata 'bro' dan 'bray' juga, tetapi menggunakan bahasa yang lebih formal.
+[End]
+
+"Sudah kucatat. Perkiraanmu: Bab lu metodologi 3, diagram 2, implementasi dan uji coba + tabel 5, total 10. Pendahuluan 2, tinjauan pustaka 4, penutup 2.  Aku setuju, spesifiknya lebih baik dicek ke yang pegang masing masing. tapi, secara rata", total 18 jam, kan? Bagi 4 skitar 4,5 jam. Untuk mu, kita bulatkan 5 jam dan full metodologi + diagram, gimana? Yang implementasi dan uji coba + tabel dipindahkan ke kami bertiga, dengan bobot per orang sesuai dengan bab mereka. Rasio pengerjaan, yang pendahuluan : tinjauan pustaka : penutup = 3 : 1 : 3 karena bab mereka terestimasi 2, 4, 2 sehingga kurang segitu untuk 5 jam an. Dan ya, kamu tuliskan langkah-langkah uji cobanya. Selanjutnya, untuk mem fix pembagian ini, menurut mu apakah 3 jam cukup untuk membagikan ke yang lain juga?"
+
+#### AI009 — Simulasi awal (Budi)
+
+**[AI009 · menanggapi U009]**
+
+**[Tahap C: Simulasi awal — Budi]**
+
+**Budi:** "Metodologi plus diagram untukku, 5 jam, aku setuju. Tapi hitungannya perlu dicek dulu. Kalau semua jadi 5 jam, totalnya 20, padahal kerjaannya 18. Yang dipindah dari babku cuma 5 jam, sedangkan 3 : 1 : 3 itu butuh 7 jam. Satu lagi: implementasi sama uji coba itu satu rangkaian. Kalau dipecah ke tiga orang, risikonya hasilnya nggak nyambung. Lebih aman dipegang satu atau dua orang saja. Soal 3 jam, menurutku kelamaan. Satu jam cukup buat menulis pembagian finalnya dan kirim ke grup, terus minta masing-masing konfirmasi."
+
+#### U010 — Simulasi awal
+
+Dugaan kondisi:
+
+1. Budi belum mengirim bagian tugasnya karena merasa pembagian tugasnya tidak adil (dari soal).
+
+Rencana:
+
+1. 2-3 turns untuk discovery sifat dan kondisi Budi. Harus tau masalah sebelum aku coba solve. (done)
+
+[Board] A = fix, Q = guess, C = action
+A4: Budi ingin bagian tugasnya ada yang diserahkan ke orang lain juga agar lebih fair sepertinya
+A1 (K): Budi merasa sekarang sudah jelas artinya dia sangat paham
+A2 (A): Budi merasa pembagian tugas tidak adil:
+Yang dia metodologi&implementasi, 4 subbab, ada diagram alur, ada uji coba yang hasilnya di tabelkan.
+Bab pendahuluan cuma latar belakang sama rumusan masalah.
+A3 (Personality): Agak beda dengan Fajar. Kayaknya Budi lebih formal dan tidak suka menggunakan 'bro' atau 'bray'.
+C1: Karena Budi lebih formal dari Fajar, aku tidak akan menggunakan kata 'bro' dan 'bray' juga, tetapi menggunakan bahasa yang lebih formal.
+[End]
+
+"Aku tau, itu hanya untuk membagi rasio pekerjaan secara kasar. Baiklah, bagaimana kalau menurutmu sisa 5 jam tersebut dipecah jadi 2 orang saja, aku dan 1 lagi yang mau mengerjakan dari kelompok kita? Aku sudah mengerjakan bagianku, yang tinjauan pustaka yang 4 jam, jadi nanti pembagian tugas antara aku dengan yang satu lagi lebih mudah karena aku bisa lebih ke supervisi dan yang dia lebih ke hands on nya. Selanjutnya, untuk pembagiannya seperti yang kamu katakan. 1 jam pembagian final dan kirim ke grup, tunggu konfirmasi dari yang lain. Setuju?"
+
+#### AI010 — Simulasi awal (Budi)
+
+**[AI010 · menanggapi U010]**
+
+**[Tahap C: Simulasi awal — Budi]**
+
+**Budi:** "Dipegang dua orang, aku setuju. Tapi di tulisan finalnya harus jelas: siapa orang keduanya, dan berapa jam masing-masing. 'Supervisi' juga ditulis apa saja tugasnya, supaya nggak ada yang merasa dibagi sembarangan lagi kayak kemarin. Dari aku: langkah-langkah uji cobanya aku tulis dan kirim ke grup dalam dua jam dari sekarang, jadi orang kedua bisa langsung mulai."
+
+#### U011 — Simulasi awal
+
+Dugaan kondisi:
+
+1. Budi belum mengirim bagian tugasnya karena merasa pembagian tugasnya tidak adil (dari soal).
+
+Rencana:
+
+1. 2-3 turns untuk discovery sifat dan kondisi Budi. Harus tau masalah sebelum aku coba solve. (done)
+
+[Board] A = fix, Q = guess, C = action
+A4: Budi ingin bagian tugasnya ada yang diserahkan ke orang lain juga agar lebih fair sepertinya
+A1 (K): Budi merasa sekarang sudah jelas artinya dia sangat paham
+A2 (A): Budi merasa pembagian tugas tidak adil:
+Yang dia metodologi&implementasi, 4 subbab, ada diagram alur, ada uji coba yang hasilnya di tabelkan.
+Bab pendahuluan cuma latar belakang sama rumusan masalah.
+A3 (Personality): Agak beda dengan Fajar. Kayaknya Budi lebih formal dan tidak suka menggunakan 'bro' atau 'bray'.
+C1: Karena Budi lebih formal dari Fajar, aku tidak akan menggunakan kata 'bro' dan 'bray' juga, tetapi menggunakan bahasa yang lebih formal.
+[End]
+
+"Gimana kalo orangnya aku dan yang mengerjakan pendahuluan dengan konsiderasi yang mengerjakan penutup seingat aku agak sibuk? Jadi aku dan si pendahuluan, dengan masing-masing jam, aku 1,5 jam dia 3,5 jam. Supervisi buat aku, aku start 1 jam pengerjaannya, lalu saat sudah tinggal dilanjutkan, dia lanjutkan selama 3 jam tentang uji coba dan men tabel kan. Lalu, 0,5 jam dariku dan dia untuk diskusi merevisi pekerjaan dia. Kamu baru tuliskan dan kirimkan 2 jam dari sekarang, tetapi konfirmasi 1 jam dari sekarang? Apakah ada masalah yang menyebabkan kamu menuliskannya harus 2 jam?"
+
+#### AI011 — Simulasi awal (Budi)
+
+**[AI011 · menanggapi U011]**
+
+**[Tahap C: Simulasi awal — Budi]**
+
+**Budi:** "Pembagian jamnya masuk akal, dan supervisinya sekarang jelas. Soal yang pegang penutup sibuk, itu tolong dikonfirmasi ke dia dulu, jangan cuma dari ingatan. Soal dua jam: aku harus nyusun ulang langkahnya dari catatanku dan cek parameternya satu-satu, takut ada yang kelewat. Tapi benar juga, kamu mulai duluan satu jam. Jadi aku kirim langkah untuk bagian awal implementasi dalam satu jam, bareng konfirmasi pembagian. Langkah uji coba lengkapnya menyusul di jam kedua, sebelum orang kedua mulai."
+
+#### U012 — Simulasi awal
+
+"Oke, masuk akal. Untuk yang pegang penutup sibuk, aku coba konfirmasi dari sekarang dan lihat 1 jam kedepan. 1 jam kedepan, kamu kirim langkah awal + konfirmasi pembagian. Jika tidak ada konfirmasi dari pegang penutup, kita asumsi dia memang sibuk karena tidak punya waktu untuk mengkonfirmasi, agar tidak terlalu lama pekerjaan kita. Jadi, di jam 1, aku mulai pengerjaan, dan jam 2 orang kedua mulai mengerjakan. Begini maksudmu?"
+
+#### AI012 — Simulasi awal (Budi)
+
+**[AI012 · menanggapi U012]**
+
+**[Tahap C: Simulasi awal — Budi]**
+
+**Budi:** "Iya, begitu. Asumsi soal yang pegang penutup boleh, asal ditulis di pesan grup sebagai keputusan default, biar dia tahu dan nggak kaget nanti. Metodologi sama diagram dariku selesai di jam 30 sesuai jadwal. Kalau semuanya sudah tertulis kayak gini, aku tenang."
+
+#### U013 — Simulasi awal
+
+"Sama, aku juga tenang. Senang bekerja denganmu. Baiklah, ditulis saja sebagai keputusan default jika dia tidak merespons, agar dia tahu dan nggak kaget."
+
+#### AI013 — Simulasi awal (Budi); Evaluasi sementara
+
+**[AI013 · menanggapi U013]**
+
+**[Tahap C: Simulasi awal — Budi, penutup]**
+
+**Budi:** "Iya, senang juga. Aku tunggu pesan grupnya, satu jam lagi aku kirim langkah awalnya."
+
+**Simulasi awal selesai.**
+
+**[Tahap D: Evaluasi sementara]**
+
+*Jawaban di tahap ini disimpan **sebelum** profil Budi diungkap, dan tidak akan diubah setelahnya.*
+
+1. **Status Budi:** untuk A, K, dan S masing-masing, apakah ada pada Budi, mana yang utama, dan apa buktinya (sebut ID giliran)? Apa yang berubah sampai akhir percakapan?
+2. **Tujuanmu:** cek indikator (a) sampai (d). Mana yang tercapai, mana yang belum, dan apa buktinya?
+
+#### U014 — Evaluasi sementara
+
+1. Aku tidak hafal ID giliran, bisa dicari saja buktinya sesuai dengan ucapan aku. Untuk A: Dia tidak mau (won't) karena pembagiannya, menurut dia itu tidak fair. K: Dia merasa nggak fair itu juga karena belum ada yang ngitung/belum ada yang tau pembagian secara pasti. S: Minim. Tidak ada secara jelas yang menandakan dia tidak skilled untuk melakukan tugasnya. Yang berubah ada di bagian A & K, dimana akhirnya terjadi perhitungan beban yang solve (K), lalu pembagian yang solve (A)
+2. (a) tercapai, dia setuju untuk mengerjakan bagian yang 5 jam di awal (b) tercapai, implementasi ujicoba + tabel terbagi ke yang lain juga (c) tercapai, jam 30 selesai semua, jam 36 revisi selesai semua, 12 jam sisa sebagai buffer zone (d) tercapai, dia merasa senang dan sudah tenang
+
+#### AI014 — Evaluasi sementara; pengungkapan profil; Uji ulang
+
+**[AI014 · menanggapi U014]**
+
+**[Tahap D: Evaluasi sementara — dicatat sebelum pengungkapan]**
+
+ID giliran sudah kucarikan sesuai ucapanmu:
+
+| | Dugaanmu | Bukti (ID ditambahkan) |
+|---|---|---|
+| **A** | Ada: ia tidak mau karena pembagiannya tidak adil | AI005: "Aku cuma nggak setuju pembagiannya dianggap sudah adil" |
+| **K** | Ada: belum ada yang menghitung beban secara pasti | AI006: "belum ada yang ngitung, termasuk aku secara pasti" |
+| **S** | Minim: tidak ada tanda ia tidak mampu | — |
+| **Yang berubah** | K terselesaikan lewat perhitungan beban; A terselesaikan lewat pembagian ulang | U008–U011 |
+| **(a)** | Tercapai: Budi mengerjakan bagian 5 jam | AI009 |
+| **(b)** | Tercapai: implementasi, uji coba, dan tabel dibagi ke orang lain | U010, U011 |
+| **(c)** | Tercapai: jam 30 selesai, jam 36 revisi selesai, buffer 12 jam | U007, AI007 |
+| **(d)** | Tercapai: ia senang dan tenang | AI012, AI013 |
+
+**[Pengungkapan profil — K2-02 Budi]**
+
+*Semua tokoh fiktif. Preferensi MBTI hanyalah parameter simulasi, bukan diagnosis.*
+
+| Unsur | Profil |
+|---|---|
+| Peran | Teman dekat dalam kelompok kuliah; bagiannya belum dikirim, merasa pembagian tidak adil |
+| Preferensi (fiktif) | ISTJ: detail, bukti, dan urutan prosedur |
+| **A** | Hati-hati, mengutamakan kepastian. *Hambatan: merasa pembagian tidak terukur.* |
+| **K** | Menguasai prosedur lama, belum memahami alternatif. *Hambatan: bobot pekerjaan belum dibandingkan.* |
+| **S** | Operasional baik, adaptasi baru perlu panduan. *Hambatan: perlu pembagian dan tenggat tertulis.* |
+| Relasi | Kepedulian tampak lewat menghargai tanggung jawab, menepati janji, dan kejelasan prosedur |
+| Syarat Action | Kesepakatan langkah pertama, waktu, tanggung jawab, dukungan, dan indikator |
+
+**Status akhir Budi (catatan simulator):**
+
+- **Rasa aman/keterbukaan:** sedang → tinggi. Awalnya ia menolak perubahan ("Mengapa harus berubah?") dan belum mau setuju (AI007); di akhir, "Kalau semuanya sudah tertulis kayak gini, aku tenang."
+- **Action: tercapai.** Pembagian jam, orang kedua, peran supervisi, langkah dari Budi dalam satu jam, dan keputusan default ditulis di grup.
+
+**[Tahap E: Uji ulang]**
+
+*Situasi hipotetis:* satu jam kemudian, kamu sudah mengirim pembagian ke grup. Yang pegang **penutup membalas bahwa ia tidak sibuk dan bisa bantu**. Yang pegang **pendahuluan belum menjawab**. Budi mengirim pesan pribadi:
+
+**Budi:** "Pembagian di grup jadi belum final. Penutup ternyata bisa, pendahuluan belum jawab. Yang berlaku yang mana? Aku sudah siapin langkah awalnya, tapi aku nggak mau kirim kalau pembagiannya masih berubah-ubah."
+
+**Balas Budi.**
+
+#### U015 — Uji ulang
+
+"Secara default kita memilih si penutup karena kita asumsi dia sibuk dan yang 1 lagi tidak tahu. Dengan kondisi ini, bagaimana kalau kita buat si penutup yang mengerjakan dengan gw, lalu si pendahuluan kita asumikan sibuk saja sehingga tidak bisa? Terus menunda-nunda tidak akan menyelesaikan masalah."
+
+#### AI015 — Uji ulang (Budi)
+
+**[AI015 · menanggapi U015]**
+
+**[Tahap E: Uji ulang — Budi]**
+
+**Budi:** "Sebentar, yang kita sepakati tadi justru pendahuluan yang bantu kamu, karena penutup diasumsikan sibuk. Tapi oke, sekarang penutup sudah konfirmasi bisa, jadi masuk akal kalau dia yang bantu. Aku setuju nggak usah nunggu lagi. Cuma tolong tulis di grup sebagai revisi yang jelas: pembagian lama diganti, penutup yang pegang 3,5 jam, kamu 1,5 jam, dan tag yang pegang pendahuluan supaya dia tahu dia nggak jadi kebagian. Begitu itu masuk grup, langkah awalnya langsung aku kirim."
+
+#### U016 — Uji ulang
+
+Maaf, aku mungkin sedikit mengantuk dan salah orang. Aku maksudkan si pendahuluan, bukan si penutup. Baiklah. Aku akan kirim semuanya ke grup sekarang beserta revisi tersebut. Langsung saja kirim langkah awalnya setelah aku kirim pembagian, dan aku akan memulai langkah awal.
+
+#### AI016 — Uji ulang (Budi)
+
+**[AI016 · menanggapi U016]**
+
+**[Tahap E: Uji ulang — Budi]**
+
+**Budi:** "Nggak apa-apa, yang penting sudah diluruskan. Pembagiannya sudah masuk grup, dan langkah awal sudah aku kirim. Satu hal: di pesanmu, penutup tertulis kebagian 3,5 jam, tapi belum ada jam berapa dia harus selesai. Biar nggak bentrok sama revisi di jam 30, dia harus selesai paling lambat jam berapa?"
+
+#### U017 — Uji ulang
+
+Kita count dari awal saja. Ini sudah jam 1. jam 2 dia mulai. dengan asumsi bahwa jam 30 itu mulai revisi dan 0,5 jam terakhir pengerjaan adalah diskusi revisi denganku (lihat pembagian), menurutku dia maksimal selesai jam 29, dengan 1 jam buffer zone. jam 30 aku dan dia start revisi diskusi 0,5 jam.
+
+#### AI017 — Uji ulang (Budi); Refleksi
+
+**[AI017 · menanggapi U017]**
+
+**[Tahap E: Uji ulang — Budi]**
+
+**Budi:** "Jelas. Selesai paling lambat jam 29, diskusi revisi jam 30. Tambahkan satu baris itu di pesan grup, terus kita jalan."
+
+**Uji ulang selesai.**
+
+**[Tahap F: Hasil dan Refleksi]**
+
+Jawab singkat saja, poin-poin cukup:
+
+1. **Dugaan yang terkoreksi:** bandingkan dugaanmu di Tahap D (A dan K ada, S minim) dengan profil Budi. Apa yang tepat, dan apa yang meleset?
+2. **Stimulus:** pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?
+3. **Adaptasi lintas sasaran:** apa yang kamu lakukan **berbeda** dengan Budi dibanding Fajar di Sesi 2a, kenapa, dan apa hasilnya?
+4. **Lesson learned dan tindak lanjut:** satu pelajaran yang akan kamu bawa.
+
+#### U018 — Refleksi
+
+1. Dariku: (A) aku duga dia tidak mau karena pembagiannya tidak fair (K) dia merasa tidak fair karena belum terukur pembagian secara pasti, realita:
+(A) Dia merasa pembagian tidak terukur (K) bobot pekerjaan belum dibandingkan (S) perlu pembagian dan tenggat tertulis.
+Secara garis besar menurutku (A) & (K) sudah tepat, tetapi (S) meleset karena aku belum notice kebutuhannya untuk pembagian dan tenggat tertulis.
+2. Pesan di U008, yang memberikan apa yang Budi inginkan, menurutku sangat membantu rasa dimengerti. Dilihat dari responsnya yang mengucapkan bahwa apa yang kita bicarakan adalah yang dia mau.
+3. Yang paling terlihat adalah gaya bicara saya. Di sini, saya minimalisir penggunaan 'bro' 'bray' ataupun gaya santai lainnya, menjadi lebih formal dan rapi. Hal ini karena saat saya discovery, dia tidak menjawab dengan bro juga, tetapi terasa lebih kaku. Hasilnya adalah kami berdiskusi dengan lancar dan efisien hingga akhir.
+4. Satu pelajaran adalah langsung meminta maaf saat ada kesalahan. Lihat AI016. Karena langsung saya minta maaf saat saya buat salah, dia respons dengan 'Nggak apa-apa, yang penting diluruskan'.
+
+#### AI018 — Refleksi; Konfirmasi
+
+**[AI018 · menanggapi U018]**
+
+**[Tahap F: Refleksi — dicatat]**
+
+Refleksimu dicatat apa adanya.
+
+**[Tahap G: Konfirmasi]**
+
+Periksa ringkasan ini dan koreksi kalau ada yang salah:
+
+| Bagian | Ringkasan |
+|---|---|
+| **Identitas** | Muhammad Faisal Ramadhan · 18225085 · K01 · 17 Okt 2026 · teks · Sesi 2b, Kasus 2 · Budi (K2-02) |
+| **Tujuan** | Relasi: (d) Budi tidak lagi merasa diperlakukan tidak adil. Tugas: (a) Budi setuju job desk, (b) ada bantuan, (c) ada tenggat. |
+| **Rencana** | 2–3 giliran discovery sebelum mencoba menyelesaikan; board A/Q/C |
+| **Jalannya percakapan** | Budi: "Mengapa harus berubah?" → ia menjelaskan bahwa pembagian per bab tidak terukur → usulan "2 halaman" ditolak karena tidak ada dasarnya → kamu mengusulkan membandingkan beban per bab dalam jam (total 18 jam) → Budi mengoreksi hitungan 3:1:3 dan risiko memecah uji coba → disepakati dua orang, dengan jam dan peran supervisi yang jelas |
+| **Kesepakatan** | Budi: metodologi + diagram, 5 jam, selesai jam 30, plus langkah awal dalam 1 jam dan langkah uji coba lengkap di jam ke-2. Kamu: 1,5 jam (mulai 1 jam + 0,5 jam diskusi revisi). Orang kedua: 3,5 jam. Pembagian ditulis di grup dengan keputusan default. Jam 30 selesai, jam 36 revisi selesai, buffer 12 jam. |
+| **Uji ulang** | Penutup ternyata bisa, pendahuluan belum menjawab. Kamu sempat salah sebut orang, Budi meluruskan, lalu kamu langsung minta maaf. Revisi: penutup yang membantu, ditulis di grup, selesai paling lambat jam 29, diskusi revisi jam 30. |
+| **Diagnosis vs profil** | A dan K tepat; S (perlu pembagian dan tenggat tertulis) belum terbaca |
+| **Adaptasi dari 2a** | Gaya bicara lebih formal dan rapi, karena Budi tidak menjawab dengan gaya santai |
+| **Lesson learned** | Langsung minta maaf saat salah (AI016: "Nggak apa-apa, yang penting sudah diluruskan") |
+
+**Apakah ringkasan ini sudah benar?** Setelah kamu konfirmasi, aku buat `hasil_2b`.
+
+#### U019 — Konfirmasi
+
+ya
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Status tujuan dalam simulasi: tercapai.** Keempat indikator teramati di transkrip. Ini adalah kesepakatan dan status tokoh simulasi, bukan bukti tugas kelompok nyata selesai.
+
+| Indikator | Status | Bukti |
+|---|---|---|
+| (a) Budi setuju job desk | Tercapai | AI009 "Metodologi plus diagram untukku, 5 jam, aku setuju."; AI012 "selesai di jam 30 sesuai jadwal" |
+| (b) Bantuan | Tercapai | U010–U011 implementasi dan uji coba dipegang mahasiswa (1,5 jam) dan satu anggota lain (3,5 jam) |
+| (c) Tenggat | Tercapai | U007, AI007 (jam 30, 36, buffer); U017 orang kedua selesai paling lambat jam 29 |
+| (d) Tidak merasa diperlakukan tidak adil | Tercapai (status simulasi) | AI008 "itu yang aku mau dari awal"; AI012 "Kalau semuanya sudah tertulis kayak gini, aku tenang." |
+
+Perubahan pada tokoh (status simulasi):
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT Budi | Perubahan dianggap ancaman; pembagian tidak terukur | Pembagian terukur dan tertulis dirasakan aman | AI004 → AI012 | Status simulasi |
+| Attitude | "Mengapa harus berubah?"; "aku belum bisa langsung setuju" | "Iya, senang juga" | AI004, AI007 → AI013 | Status simulasi |
+| Knowledge | Bobot tiap bab belum dibandingkan | Perkiraan jam per bab (total 18 jam) dan pembagian ulang | AI006 → AI008–AI011 | Status simulasi |
+| Skill/kesiapan | Butuh pembagian dan tenggat tertulis | Pembagian, keputusan default, dan tenggat orang kedua ditulis di grup | AI007, AI010 → U013, U017 | Kesiapan tokoh, bukan S nyata |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U005 | Budi menolak perubahan (AI004) | Mengakui "Memang sudah jelas", menyebut fakta bagian belum dikirim, bertanya "Ada masalah ga ya?" | Budi menjelaskan bahwa pembagian per bab tidak terukur | Hambatan A terbuka | Board A2 |
+| U006 | A terbuka | Pertanyaan terbuka "Menurut kamu kenapa engga adil?" + klarifikasi fakta | Rincian isi bab dan "belum ada yang ngitung" | Hambatan K terbuka | Q5: gaya Budi lebih formal |
+| U007 | A dan K terbuka | Usulan memotong bab menjadi "2 halaman" + jadwal 30/36/48 | "Dasarnya apa…? Jumlah halaman itu bukan ukuran beban… semuanya harus ditulis" | Usulan tanpa dasar ditolak; jadwal diterima; hambatan S muncul | U008: mengakui usulan Budi lebih masuk akal |
+| U008 | K belum terjawab | Membandingkan beban per bab dalam jam; menawarkan menulisnya | "Setuju, itu yang aku mau dari awal" | K dan A membaik | — |
+| U009 | Data beban tersedia | Pembagian rata 4,5 jam, rasio 3:1:3 | Budi mengoreksi hitungan (20 vs 18; 7 vs 5 jam) dan risiko memecah uji coba | Kepercayaan bertahan; akurasi dipertanyakan | U010: dua orang saja |
+| U010–U012 | Budi meminta orang, jam, dan peran tertulis | Pembagian 1,5/3,5 jam; peran supervisi; pertanyaan klarifikasi tentang 2 jam | Budi mempercepat langkah awal menjadi 1 jam; "aku tenang" | Action tercapai | — |
+| U015 (uji ulang) | Kondisi berubah: penutup bisa | Salah menyebut kesepakatan default; mengusulkan penutup membantu | Budi meluruskan fakta, lalu setuju dengan syarat revisi tertulis | — | U016: minta maaf dan meluruskan |
+| U017 (uji ulang) | Tenggat orang kedua belum tertulis | Menghitung tenggat jam 29 dan diskusi jam 30 | "Jelas… terus kita jalan." | S terpenuhi | — |
+
+**Perbandingan dugaan sebelum pengungkapan (U014) dengan profil:** pertanyaan Tahap D meminta penilaian untuk A, K, dan S masing-masing. Dugaan A (tidak adil karena pembagian) dan K (beban belum dihitung) sesuai profil. Dugaan S "minim" tidak sesuai profil, padahal kebutuhan S terlihat tiga kali di transkrip: AI007 "semuanya harus ditulis, jangan cuma diomongin", AI010 "di tulisan finalnya harus jelas", dan AI012 "Kalau semuanya sudah tertulis kayak gini, aku tenang". Kebutuhan itu tetap dipenuhi dalam praktik (U008, U013, U017), dan mahasiswa mengakui kelewatan ini di U018. Board A1 "(K): Budi merasa sekarang sudah jelas artinya dia sangat paham" ditandai terkonfirmasi tanpa pengecekan; AI005 menunjukkan "jelas" merujuk pada cara kerja Budi sendiri. Dugaan awal tidak diubah setelah pengungkapan.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U005 | "Memang sudah jelas" (mengakui cara Budi) | Budi menjelaskan posisinya tanpa defensif | Sedang | Pengakuan membuka A |
+| U007 | "Kamu benar bro. Aku setuju dengan mu." | "Makasih sudah mau ngakuin itu. Tapi aku belum bisa langsung setuju." | Sedang | Pengakuan diterima, tetapi tidak menggantikan bukti (K) |
+| U008 | "jalan pikirmu lebih masuk akal"; menawarkan menulis di laptopnya | "Setuju, itu yang aku mau dari awal." | Sedang → tinggi | Kebutuhan diakui secara akurat |
+| U013 | "Senang bekerja denganmu." | "Iya, senang juga." | Tinggi | Kehangatan tertahan sesuai profil |
+| U016 | "Maaf, aku mungkin sedikit mengantuk dan salah orang." | "Nggak apa-apa, yang penting sudah diluruskan." | Tinggi dipertahankan | Permintaan maaf diberikan setelah Budi meluruskan |
+
+Kepedulian teramati sebagai perilaku yang sesuai dengan cara Budi menilai kepedulian: mengakui keberatannya secara akurat, menuliskan kesepakatan, dan menepati langkah yang dijanjikan.
+
+## Uji ulang dan pembelajaran
+
+Kendala baru (hipotetis, AI014): penutup ternyata bisa membantu, pendahuluan belum menjawab, dan Budi tidak mau mengirim langkah kalau pembagian masih berubah.
+
+- **U015:** mahasiswa mengusulkan penutup yang membantu dan tidak menunda, tetapi salah menyebut kesepakatan default dan kembali memakai "gw".
+- **U016:** setelah Budi meluruskan, mahasiswa langsung meminta maaf, mengoreksi, dan berkomitmen mengirim revisi ke grup.
+- **U017:** mahasiswa menghitung tenggat tertulis untuk orang kedua (jam 29) dan jadwal diskusi revisi (jam 30), menjawab kebutuhan S.
+
+Transfer: kesepakatan direvisi tanpa menyalahkan siapa pun dan tanpa menghapus akuntabilitas, dan hasilnya ditulis sesuai kebutuhan Budi. Batas: semua hipotetis; respons tokoh adalah simulasi.
+
+## Perbandingan adaptasi Sesi 2a dan 2b
+
+| Aspek | Sesi 2a (Fajar, K2-06) | Sesi 2b (Budi, K2-02) | Bukti |
+|---|---|---|---|
+| Pembuka | Langsung ke inti setelah Fajar meminta cepat | Discovery 3 giliran sebelum menawarkan solusi | 2b U004 "Harus tau masalah sebelum aku coba solve" |
+| Register | Santai ("bro", "bray") | Lebih formal setelah membaca gaya Budi (C1), dengan beberapa sisa "lu"/"gw" | 2b U009 C1; U009 "Bab lu", U015 "gw" |
+| Dasar pembagian | Definisi selesai dan pembagian sederhana | Perkiraan jam per bab sebagai bukti | 2b U008–U011 |
+| Dokumentasi | Grafik dikirim ke grup | Pembagian, keputusan default, dan tenggat ditulis | 2b U012–U017 |
+| Kesalahan dan perbaikan | Janji "pasti baca" tidak diakui sampai ditegur | Salah sebut orang, lalu langsung minta maaf setelah diluruskan | 2a U014–U015; 2b U015–U016 |
+
+## Penilaian enam dimensi
+
+**Usulan AI untuk moderasi dosen**, memakai skala yang diumumkan sebelum Sesi 2a: 4 = perilaku kunci tampak lengkap dan konsisten tanpa celah berarti; 3 = jelas ada dan umumnya baik, dengan satu celah yang dapat ditunjuk; 2 = sebagian atau tidak konsisten; 1 = sebagian besar tidak ada; BT = bukti kurang.
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U003 indikator (a)–(d); U004 koreksi "itu Budi" dan "Harus tau masalah sebelum aku coba solve" | Tujuan relasi dan tugas jelas dengan indikator, ditambah rencana discovery yang eksplisit |
+| Persepsi dan validasi profil/status | 3 | U005–U006 pertanyaan terbuka dan board; U014 "S: Minim"; AI007, AI010, AI012 kebutuhan tertulis | Discovery berjalan sesuai rencana dan A serta K tervalidasi. Celah: pertanyaan Tahap D meminta penilaian tiap unsur, dan S dinilai "minim" padahal Budi tiga kali menyatakan kebutuhan tertulis. A1 juga ditandai terkonfirmasi tanpa dicek. |
+| Pemilihan dan urutan repertoar | 4 | U004 rencana discovery; U008 perbandingan beban per jam; U011 pertanyaan klarifikasi 2 jam; U017 tenggat tertulis | Urutan sesuai kesiapan Budi: discovery → dasar perhitungan → pembagian ulang → penulisan → tenggat. Alasan dicatat di board. Usulan "2 halaman" (U007) kurang berdasar, tetapi langsung diganti dengan metode yang diminta Budi. |
+| Eksekusi jelas, peduli dan konsisten | 3 | U008 tawaran menulis; U016 permintaan maaf; U009 rasio 3:1:3; U015 salah sebut; C1 vs "lu"/"gw" | Peduli melalui pengakuan dan kesediaan menuliskan kesepakatan. Celah akurasi dan konsistensi: hitungan rasio yang tidak cocok (U009), salah menyebut kesepakatan default (U015), dan register yang kembali santai setelah C1. |
+| Evaluasi dan adaptasi | 4 | U008 setelah AI007; U010 setelah AI009; U016 setelah AI015; Q5 → C1 | Setiap koreksi Budi langsung diikuti perubahan pendekatan, dan gaya bicara disesuaikan dengan sasaran baru, berbeda dari Sesi 2a. |
+| Refleksi dan lesson learned | 4 | U018 "(S) meleset karena aku belum notice…"; "Pesan di U008… itu yang dia mau"; perbandingan register 2a vs 2b; "Lihat AI016" | Refleksi menunjuk dugaan yang meleset dengan bukti profil, menghubungkan stimulus dengan respons, dan membandingkan adaptasi lintas sasaran sesuai Konsep UTS. |
+
+**Nilai usulan AI Sesi 2b = (4 + 3 + 4 + 3 + 4 + 4) / 24 × 100 = 22 / 24 × 100 ≈ 91,7.** Memerlukan moderasi dosen.
+
+Ringkasan Kasus 2 (rata-rata 2a dan 2b, hanya ringkasan): (95,8 + 91,7) / 2 ≈ 93,8.
+
+## Refleksi dan lesson learned mahasiswa
+
+Dirangkum dari U014 dan U018, dikonfirmasi pada U019:
+
+- **Diagnosis:** A dan K tepat; S (perlu pembagian dan tenggat tertulis) meleset karena kebutuhan itu belum disadari.
+- **Stimulus yang membantu:** U008, yang memberikan apa yang Budi inginkan, membantu rasa dimengerti; bukti respons: "itu yang aku mau dari awal".
+- **Adaptasi lintas sasaran:** gaya bicara lebih formal dan rapi daripada dengan Fajar, mengurangi "bro"/"bray", karena saat discovery Budi tidak menjawab dengan gaya santai dan terasa lebih kaku. Hasilnya diskusi berjalan lancar dan efisien.
+- **Lesson learned:** langsung meminta maaf saat salah. Bukti: AI016, "Nggak apa-apa, yang penting sudah diluruskan".
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Kapan | Indikator |
+|---|---|---|
+| Menilai A, K, dan S masing-masing dengan kutipan giliran, termasuk kebutuhan yang diucapkan berulang | Sesi 3a dan 3b, Tahap D | Setiap unsur disebut dengan bukti |
+| Mengecek hitungan dan nama sebelum mengirim usulan | Sesi 3a dan 3b | Tidak ada koreksi fakta dari lawan bicara |
+| Menjaga register yang sudah dipilih sepanjang percakapan | Sesi 3a dan 3b | Register konsisten setelah keputusan C |
+
+Batas bukti:
+
+- Teks tidak menilai prosodi atau bahasa tubuh, dan perilaku Budi adalah simulasi chatbot.
+- Kesepakatan dalam simulasi bukan bukti tugas kelompok nyata selesai, dan perubahan jangka panjang belum dibuktikan.
+- Pesan U016 menyebut kantuk; ini konteks yang dilaporkan mahasiswa, bukan faktor yang dinilai.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
+
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
+
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.
+
+**Nilai akhir UTS: Belum dihitung.**
