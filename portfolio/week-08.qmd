@@ -43,12 +43,12 @@ Nama berkas laporan mengikuti `PENUGASAN.md` dalam ZIP masing-masing (`hasil_<se
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | [Isi] | — (tidak dinilai AI) | — | Belum dinilai |
-| Sesi 1 | 18% | [Isi] | 79,2 (19/24) | — | Belum dinilai |
-| Sesi 2a | 18% | [Isi] | 95,8 (23/24) | — | Belum dinilai |
-| Sesi 2b | 18% | [Isi] | 91,7 (22/24) | — | Belum dinilai |
-| Sesi 3a | 18% | [Isi] | 83,3 (20/24) | — | Belum dinilai |
-| Sesi 3b | 18% | [Isi] | 87,5 (21/24) | — | Belum dinilai |
+| Makalah | 10% | 70/100 | — (tidak dinilai AI) | — | Belum dinilai |
+| Sesi 1 | 18% | 80/100 | 79,2 (19/24) | — | Belum dinilai |
+| Sesi 2a | 18% | 95/100 | 95,8 (23/24) | — | Belum dinilai |
+| Sesi 2b | 18% | 95/100 | 91,7 (22/24) | — | Belum dinilai |
+| Sesi 3a | 18% | 85/100 | 83,3 (20/24) | — | Belum dinilai |
+| Sesi 3b | 18% | 90/100 | 87,5 (21/24) | — | Belum dinilai |
 
 Ringkasan kasus (rata-rata usulan AI, hanya ringkasan): Kasus 2 ≈ 93,8; Kasus 3 ≈ 85,4.
 
