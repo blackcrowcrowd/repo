@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -18,8 +18,109 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+---
 
-{{< include ../includes/evidence-template.md >}}
+## 1. Episode
+
+Senin, 12 Oktober 2026, sekitar pukul 23.40 WIB, di kamar kos. Saya main ranked Mobile Legends (solo) sebagai marksman, hero Brody, di gold lane. Ini kekalahan ketiga berturut-turut malam itu. Hasil match: kalah, KDA saya **1/9/3**.
+
+### Chat in-game
+
+Diketik ulang dari screenshot, nickname disamarkan.
+
+```text
+03:41 [Team] Zx***々 (Fanny): mm main aman aja lah
+05:20 [Team] Mamank.*** (Yu Zhong): mm beban
+06:30 [Team] ᴀʀ***. (Tigreal): report mm
+08:45 [Team] saya (Brody): sorry gw di gold sendiri terus. turtle berikutnya gw ikut
+11:40 [Team] Zx***々 (Fanny): mm main aman 🤡
+```
+
+Sebelum mengirim pesan di menit 08:45, saya sempat mengetik "roam lu kemana dari tadi" lalu saya hapus.
+
+## 2. Fact dan story
+
+| Fact | Story saya |
+|---|---|
+| KDA 1/9/3. | "Gw beban tim." |
+| Saya beberapa kali mati dikeroyok 2–3 hero musuh, roamer tim jarang ke gold lane. | "Gw ga bisa main MM." |
+| "mm main aman" ditulis 3 kali oleh pemain yang sama. | "Semua orang ngetawain gw." |
+
+## 3. Initial story
+
+> "Gw emang beban. Udah all out tapi tetep dikatain. Mending berhenti main ML aja daripada stres."
+
+## 4. Emotion
+
+Malu, kesal, dan capek. Saya merasa panas di muka dan ingin membalas chat.
+
+## 5. Internal characters
+
+- **Si Hakim**: "Lu beban, ga bakat."
+- **Si Ngegas**: "Bales aja, roamer-nya yang salah."
+- **Si Kabur**: "Uninstall aja."
+- **Si Pengamat**: "Ini fakta atau cuma perasaan?"
+
+## 6. Alternative narratives
+
+1. **Rotasi tim.** Saya sering dikeroyok 2–3 orang dan roamer jarang membantu. KDA saya bukan hanya karena skill saya, tapi juga karena situasi lane.
+2. **Kondisi capek.** Ini sudah match ketiga yang kalah dan sudah hampir tengah malam. Saya main sambil emosi dan ingin cepat menang, jadi saya lebih sering maju tanpa melihat minimap.
+
+Kedua narrative ini membuat saya melihat bahwa masalahnya bukan "saya tidak bisa main", melainkan kapan dan dalam kondisi apa saya main.
+
+## 7. Chosen response
+
+- Tidak membalas chat dengan marah, menghapus draft, dan mengirim satu pesan netral.
+- Tetap main sampai selesai (tidak AFK).
+- Tidak lanjut main ranked malam itu, lalu tidur sekitar 00.30.
+
+## 8. Internal agreement
+
+Ditulis di Notes HP, Selasa 13 Oktober 2026, 00.12 WIB:
+
+```text
+13–18 okt
+1. ga ranked dulu
+2. ml max jam 23.00
+3. kalah 2x beruntun = udahan
+```
+
+## 9. Bukti tindakan
+
+| Tanggal | Main? | Mode | Jam |
+|---|---|---|---|
+| Sel, 13 Okt | Tidak | — | — |
+| Rab, 14 Okt | Ya | Classic ×2 | 21.10–21.50 |
+| Kam, 15 Okt | Ya | Classic ×1 | 22.20 |
+| Jum, 16 Okt | Ya | Classic mabar ×3 | 20.30–21.45 |
+| Sab, 17 Okt | Tidak | — | — |
+| Min, 18 Okt | Ya | Classic ×1 | 20.10 |
+
+Selama 13–18 Oktober saya tidak main ranked dan tidak main lewat jam 23.00. Saya juga merasa tidurnya lebih cepat dibanding biasanya.
+
+## 10. Refleksi
+
+Event (kalah dan dikatai) membuat saya langsung menyimpulkan saya "beban" dan ingin berhenti. Setelah memisahkan fact dan story, saya sadar ada faktor lain: rotasi tim dan kondisi capek. Daripada berhenti total, saya memilih mengatur kapan saya main.
+
+## 11. Deklarasi penggunaan AI
+
+Saya menggunakan Claude untuk mencari ide alternative narrative dan merapikan bahasa. Prompt yang saya pakai:
+
+> gw abis kalah ranked, kda 1/9/3 pake brody, dikatain "mm main aman" sm tim. kasih ide alternative narrative tp jgn yg toxic positivity
+
+Dari jawaban AI, saya memakai ide soal rotasi tim dan kondisi capek, lalu saya sesuaikan dengan kejadian saya sendiri. Episode, chat, agreement, dan log saya tulis sendiri.
+
+## 12. Privacy
+
+Nickname pemain lain disamarkan.
+
+## 13. Self-assessment
+
+| Dimensi | Skor |
+|---|---:|
+| Person & Character | 3 |
+| Objective & State | 3 |
+| Repertoire, Language & AI | 3 |
+| Response & Adaptation | 4 |
+| Agreement, Action & Relationship | 3 |
+| **Total** | **16/20** |
